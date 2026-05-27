@@ -1,6 +1,6 @@
 # Login-Screen
 Interface gráfica de tela de login feito usando python e customtkinter para uma interface moderna, e pillow para integração de imagens.
-<img width="752" height="539" alt="Captura de tela 2025-08-01 030131" src="https://github.com/user-attachments/assets/2c192209-c427-40db-844b-fcb93229f4a1" />
+<img width="752" height="539" alt="1754033486614" src="https://github.com/user-attachments/assets/c52d77e0-1896-4580-99ab-c7c78eb95a18" />
 
 ## 🟦 Tela de Login com Python (Tkinter + CustomTkinter)
 
