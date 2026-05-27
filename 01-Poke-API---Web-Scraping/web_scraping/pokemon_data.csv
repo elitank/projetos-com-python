@@ -1,0 +1,1201 @@
+id,name,type_1,type_2,height,weight,category,abilities,habitat,color,is_legendary,is_mythical,evolution_chain
+1,bulbasaur,Grass,Poison,7,69,bulbasaur,"['overgrow', 'chlorophyll']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/1/
+2,ivysaur,Grass,Poison,10,130,ivysaur,"['overgrow', 'chlorophyll']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/1/
+3,venusaur,Grass,Poison,20,1000,venusaur,"['overgrow', 'chlorophyll']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/1/
+4,charmander,Fire,,6,85,charmander,"['blaze', 'solar-power']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/2/
+5,charmeleon,Fire,,11,190,charmeleon,"['blaze', 'solar-power']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/2/
+6,charizard,Fire,Flying,17,905,charizard,"['blaze', 'solar-power']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/2/
+7,squirtle,Water,,5,90,squirtle,"['torrent', 'rain-dish']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/3/
+8,wartortle,Water,,10,225,wartortle,"['torrent', 'rain-dish']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/3/
+9,blastoise,Water,,16,855,blastoise,"['torrent', 'rain-dish']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/3/
+10,caterpie,Bug,,3,29,caterpie,"['shield-dust', 'run-away']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/4/
+11,metapod,Bug,,7,99,metapod,['shed-skin'],forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/4/
+12,butterfree,Bug,Flying,11,320,butterfree,"['compound-eyes', 'tinted-lens']",forest,white,False,False,https://pokeapi.co/api/v2/evolution-chain/4/
+13,weedle,Bug,Poison,3,32,weedle,"['shield-dust', 'run-away']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/5/
+14,kakuna,Bug,Poison,6,100,kakuna,['shed-skin'],forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/5/
+15,beedrill,Bug,Poison,10,295,beedrill,"['swarm', 'sniper']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/5/
+16,pidgey,Normal,Flying,3,18,pidgey,"['keen-eye', 'tangled-feet', 'big-pecks']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/6/
+17,pidgeotto,Normal,Flying,11,300,pidgeotto,"['keen-eye', 'tangled-feet', 'big-pecks']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/6/
+18,pidgeot,Normal,Flying,15,395,pidgeot,"['keen-eye', 'tangled-feet', 'big-pecks']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/6/
+19,rattata,Normal,,3,35,rattata,"['run-away', 'guts', 'hustle']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/7/
+20,raticate,Normal,,7,185,raticate,"['run-away', 'guts', 'hustle']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/7/
+21,spearow,Normal,Flying,3,20,spearow,"['keen-eye', 'sniper']",rough-terrain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/8/
+22,fearow,Normal,Flying,12,380,fearow,"['keen-eye', 'sniper']",rough-terrain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/8/
+23,ekans,Poison,,20,69,ekans,"['intimidate', 'shed-skin', 'unnerve']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/9/
+24,arbok,Poison,,35,650,arbok,"['intimidate', 'shed-skin', 'unnerve']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/9/
+25,pikachu,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+26,raichu,Electric,,8,300,raichu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+27,sandshrew,Ground,,6,120,sandshrew,"['sand-veil', 'sand-rush']",rough-terrain,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/11/
+28,sandslash,Ground,,10,295,sandslash,"['sand-veil', 'sand-rush']",rough-terrain,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/11/
+29,nidoran-f,Poison,,4,70,nidoran-f,"['poison-point', 'rivalry', 'hustle']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/12/
+30,nidorina,Poison,,8,200,nidorina,"['poison-point', 'rivalry', 'hustle']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/12/
+31,nidoqueen,Poison,Ground,13,600,nidoqueen,"['poison-point', 'rivalry', 'sheer-force']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/12/
+32,nidoran-m,Poison,,5,90,nidoran-m,"['poison-point', 'rivalry', 'hustle']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/13/
+33,nidorino,Poison,,9,195,nidorino,"['poison-point', 'rivalry', 'hustle']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/13/
+34,nidoking,Poison,Ground,14,620,nidoking,"['poison-point', 'rivalry', 'sheer-force']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/13/
+35,clefairy,Fairy,,6,75,clefairy,"['cute-charm', 'magic-guard', 'friend-guard']",mountain,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/14/
+36,clefable,Fairy,,13,400,clefable,"['cute-charm', 'magic-guard', 'unaware']",mountain,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/14/
+37,vulpix,Fire,,6,99,vulpix,"['flash-fire', 'drought']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/15/
+38,ninetales,Fire,,11,199,ninetales,"['flash-fire', 'drought']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/15/
+39,jigglypuff,Normal,Fairy,5,55,jigglypuff,"['cute-charm', 'competitive', 'friend-guard']",grassland,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/16/
+40,wigglytuff,Normal,Fairy,10,120,wigglytuff,"['cute-charm', 'competitive', 'frisk']",grassland,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/16/
+41,zubat,Poison,Flying,8,75,zubat,"['inner-focus', 'infiltrator']",cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/17/
+42,golbat,Poison,Flying,16,550,golbat,"['inner-focus', 'infiltrator']",cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/17/
+43,oddish,Grass,Poison,5,54,oddish,"['chlorophyll', 'run-away']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/18/
+44,gloom,Grass,Poison,8,86,gloom,"['chlorophyll', 'stench']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/18/
+45,vileplume,Grass,Poison,12,186,vileplume,"['chlorophyll', 'effect-spore']",grassland,red,False,False,https://pokeapi.co/api/v2/evolution-chain/18/
+46,paras,Bug,Grass,3,54,paras,"['effect-spore', 'dry-skin', 'damp']",forest,red,False,False,https://pokeapi.co/api/v2/evolution-chain/19/
+47,parasect,Bug,Grass,10,295,parasect,"['effect-spore', 'dry-skin', 'damp']",forest,red,False,False,https://pokeapi.co/api/v2/evolution-chain/19/
+48,venonat,Bug,Poison,10,300,venonat,"['compound-eyes', 'tinted-lens', 'run-away']",forest,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/20/
+49,venomoth,Bug,Poison,15,125,venomoth,"['shield-dust', 'tinted-lens', 'wonder-skin']",forest,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/20/
+50,diglett,Ground,,2,8,diglett,"['sand-veil', 'arena-trap', 'sand-force']",cave,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/21/
+51,dugtrio,Ground,,7,333,dugtrio,"['sand-veil', 'arena-trap', 'sand-force']",cave,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/21/
+52,meowth,Normal,,4,42,meowth,"['pickup', 'technician', 'unnerve']",urban,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/22/
+53,persian,Normal,,10,320,persian,"['limber', 'technician', 'unnerve']",urban,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/22/
+54,psyduck,Water,,8,196,psyduck,"['damp', 'cloud-nine', 'swift-swim']",waters-edge,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/23/
+55,golduck,Water,,17,766,golduck,"['damp', 'cloud-nine', 'swift-swim']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/23/
+56,mankey,Fighting,,5,280,mankey,"['vital-spirit', 'anger-point', 'defiant']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/24/
+57,primeape,Fighting,,10,320,primeape,"['vital-spirit', 'anger-point', 'defiant']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/24/
+58,growlithe,Fire,,7,190,growlithe,"['intimidate', 'flash-fire', 'justified']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/25/
+59,arcanine,Fire,,19,1550,arcanine,"['intimidate', 'flash-fire', 'justified']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/25/
+60,poliwag,Water,,6,124,poliwag,"['water-absorb', 'damp', 'swift-swim']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/26/
+61,poliwhirl,Water,,10,200,poliwhirl,"['water-absorb', 'damp', 'swift-swim']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/26/
+62,poliwrath,Water,Fighting,13,540,poliwrath,"['water-absorb', 'damp', 'swift-swim']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/26/
+63,abra,Psychic,,9,195,abra,"['synchronize', 'inner-focus', 'magic-guard']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/27/
+64,kadabra,Psychic,,13,565,kadabra,"['synchronize', 'inner-focus', 'magic-guard']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/27/
+65,alakazam,Psychic,,15,480,alakazam,"['synchronize', 'inner-focus', 'magic-guard']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/27/
+66,machop,Fighting,,8,195,machop,"['guts', 'no-guard', 'steadfast']",mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/28/
+67,machoke,Fighting,,15,705,machoke,"['guts', 'no-guard', 'steadfast']",mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/28/
+68,machamp,Fighting,,16,1300,machamp,"['guts', 'no-guard', 'steadfast']",mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/28/
+69,bellsprout,Grass,Poison,7,40,bellsprout,"['chlorophyll', 'gluttony']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/29/
+70,weepinbell,Grass,Poison,10,64,weepinbell,"['chlorophyll', 'gluttony']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/29/
+71,victreebel,Grass,Poison,17,155,victreebel,"['chlorophyll', 'gluttony']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/29/
+72,tentacool,Water,Poison,9,455,tentacool,"['clear-body', 'liquid-ooze', 'rain-dish']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/30/
+73,tentacruel,Water,Poison,16,550,tentacruel,"['clear-body', 'liquid-ooze', 'rain-dish']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/30/
+74,geodude,Rock,Ground,4,200,geodude,"['rock-head', 'sturdy', 'sand-veil']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/31/
+75,graveler,Rock,Ground,10,1050,graveler,"['rock-head', 'sturdy', 'sand-veil']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/31/
+76,golem,Rock,Ground,14,3000,golem,"['rock-head', 'sturdy', 'sand-veil']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/31/
+77,ponyta,Fire,,10,300,ponyta,"['run-away', 'flash-fire', 'flame-body']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/32/
+78,rapidash,Fire,,17,950,rapidash,"['run-away', 'flash-fire', 'flame-body']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/32/
+79,slowpoke,Water,Psychic,12,360,slowpoke,"['oblivious', 'own-tempo', 'regenerator']",waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/33/
+80,slowbro,Water,Psychic,16,785,slowbro,"['oblivious', 'own-tempo', 'regenerator']",waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/33/
+81,magnemite,Electric,Steel,3,60,magnemite,"['magnet-pull', 'sturdy', 'analytic']",rough-terrain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/34/
+82,magneton,Electric,Steel,10,600,magneton,"['magnet-pull', 'sturdy', 'analytic']",rough-terrain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/34/
+83,farfetchd,Normal,Flying,8,150,farfetchd,"['keen-eye', 'inner-focus', 'defiant']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/35/
+84,doduo,Normal,Flying,14,392,doduo,"['run-away', 'early-bird', 'tangled-feet']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/36/
+85,dodrio,Normal,Flying,18,852,dodrio,"['run-away', 'early-bird', 'tangled-feet']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/36/
+86,seel,Water,,11,900,seel,"['thick-fat', 'hydration', 'ice-body']",sea,white,False,False,https://pokeapi.co/api/v2/evolution-chain/37/
+87,dewgong,Water,Ice,17,1200,dewgong,"['thick-fat', 'hydration', 'ice-body']",sea,white,False,False,https://pokeapi.co/api/v2/evolution-chain/37/
+88,grimer,Poison,,9,300,grimer,"['stench', 'sticky-hold', 'poison-touch']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/38/
+89,muk,Poison,,12,300,muk,"['stench', 'sticky-hold', 'poison-touch']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/38/
+90,shellder,Water,,3,40,shellder,"['shell-armor', 'skill-link', 'overcoat']",sea,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/39/
+91,cloyster,Water,Ice,15,1325,cloyster,"['shell-armor', 'skill-link', 'overcoat']",sea,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/39/
+92,gastly,Ghost,Poison,13,1,gastly,['levitate'],cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/40/
+93,haunter,Ghost,Poison,16,1,haunter,['levitate'],cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/40/
+94,gengar,Ghost,Poison,15,405,gengar,['cursed-body'],cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/40/
+95,onix,Rock,Ground,88,2100,onix,"['rock-head', 'sturdy', 'weak-armor']",cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/41/
+96,drowzee,Psychic,,10,324,drowzee,"['insomnia', 'forewarn', 'inner-focus']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/42/
+97,hypno,Psychic,,16,756,hypno,"['insomnia', 'forewarn', 'inner-focus']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/42/
+98,krabby,Water,,4,65,krabby,"['hyper-cutter', 'shell-armor', 'sheer-force']",waters-edge,red,False,False,https://pokeapi.co/api/v2/evolution-chain/43/
+99,kingler,Water,,13,600,kingler,"['hyper-cutter', 'shell-armor', 'sheer-force']",waters-edge,red,False,False,https://pokeapi.co/api/v2/evolution-chain/43/
+100,voltorb,Electric,,5,104,voltorb,"['soundproof', 'static', 'aftermath']",urban,red,False,False,https://pokeapi.co/api/v2/evolution-chain/44/
+101,electrode,Electric,,12,666,electrode,"['soundproof', 'static', 'aftermath']",urban,red,False,False,https://pokeapi.co/api/v2/evolution-chain/44/
+102,exeggcute,Grass,Psychic,4,25,exeggcute,"['chlorophyll', 'harvest']",forest,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/45/
+103,exeggutor,Grass,Psychic,20,1200,exeggutor,"['chlorophyll', 'harvest']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/45/
+104,cubone,Ground,,4,65,cubone,"['rock-head', 'lightning-rod', 'battle-armor']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/46/
+105,marowak,Ground,,10,450,marowak,"['rock-head', 'lightning-rod', 'battle-armor']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/46/
+106,hitmonlee,Fighting,,15,498,hitmonlee,"['limber', 'reckless', 'unburden']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/47/
+107,hitmonchan,Fighting,,14,502,hitmonchan,"['keen-eye', 'iron-fist', 'inner-focus']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/47/
+108,lickitung,Normal,,12,655,lickitung,"['own-tempo', 'oblivious', 'cloud-nine']",grassland,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/48/
+109,koffing,Poison,,6,10,koffing,"['levitate', 'neutralizing-gas', 'stench']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/49/
+110,weezing,Poison,,12,95,weezing,"['levitate', 'neutralizing-gas', 'stench']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/49/
+111,rhyhorn,Ground,Rock,10,1150,rhyhorn,"['lightning-rod', 'rock-head', 'reckless']",rough-terrain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/50/
+112,rhydon,Ground,Rock,19,1200,rhydon,"['lightning-rod', 'rock-head', 'reckless']",rough-terrain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/50/
+113,chansey,Normal,,11,346,chansey,"['natural-cure', 'serene-grace', 'healer']",urban,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/51/
+114,tangela,Grass,,10,350,tangela,"['chlorophyll', 'leaf-guard', 'regenerator']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/52/
+115,kangaskhan,Normal,,22,800,kangaskhan,"['early-bird', 'scrappy', 'inner-focus']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/53/
+116,horsea,Water,,4,80,horsea,"['swift-swim', 'sniper', 'damp']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/54/
+117,seadra,Water,,12,250,seadra,"['poison-point', 'sniper', 'damp']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/54/
+118,goldeen,Water,,6,150,goldeen,"['swift-swim', 'water-veil', 'lightning-rod']",waters-edge,red,False,False,https://pokeapi.co/api/v2/evolution-chain/55/
+119,seaking,Water,,13,390,seaking,"['swift-swim', 'water-veil', 'lightning-rod']",waters-edge,red,False,False,https://pokeapi.co/api/v2/evolution-chain/55/
+120,staryu,Water,,8,345,staryu,"['illuminate', 'natural-cure', 'analytic']",sea,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/56/
+121,starmie,Water,Psychic,11,800,starmie,"['illuminate', 'natural-cure', 'analytic']",sea,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/56/
+122,mr-mime,Psychic,Fairy,13,545,mr-mime,"['soundproof', 'filter', 'technician']",urban,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/57/
+123,scyther,Bug,Flying,15,560,scyther,"['swarm', 'technician', 'steadfast']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/58/
+124,jynx,Ice,Psychic,14,406,jynx,"['oblivious', 'forewarn', 'dry-skin']",urban,red,False,False,https://pokeapi.co/api/v2/evolution-chain/59/
+125,electabuzz,Electric,,11,300,electabuzz,"['static', 'vital-spirit']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/60/
+126,magmar,Fire,,13,445,magmar,"['flame-body', 'vital-spirit']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/61/
+127,pinsir,Bug,,15,550,pinsir,"['hyper-cutter', 'mold-breaker', 'moxie']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/62/
+128,tauros,Normal,,14,884,tauros,"['intimidate', 'anger-point', 'sheer-force']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/63/
+129,magikarp,Water,,9,100,magikarp,"['swift-swim', 'rattled']",waters-edge,red,False,False,https://pokeapi.co/api/v2/evolution-chain/64/
+130,gyarados,Water,Flying,65,2350,gyarados,"['intimidate', 'moxie']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/64/
+131,lapras,Water,Ice,25,2200,lapras,"['water-absorb', 'shell-armor', 'hydration']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/65/
+132,ditto,Normal,,3,40,ditto,"['limber', 'imposter']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/66/
+133,eevee,Normal,,3,65,eevee,"['run-away', 'adaptability', 'anticipation']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+134,vaporeon,Water,,10,290,vaporeon,"['water-absorb', 'hydration']",urban,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+135,jolteon,Electric,,8,245,jolteon,"['volt-absorb', 'quick-feet']",urban,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+136,flareon,Fire,,9,250,flareon,"['flash-fire', 'guts']",urban,red,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+137,porygon,Normal,,8,365,porygon,"['trace', 'download', 'analytic']",urban,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/68/
+138,omanyte,Rock,Water,4,75,omanyte,"['swift-swim', 'shell-armor', 'weak-armor']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/69/
+139,omastar,Rock,Water,10,350,omastar,"['swift-swim', 'shell-armor', 'weak-armor']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/69/
+140,kabuto,Rock,Water,5,115,kabuto,"['swift-swim', 'battle-armor', 'weak-armor']",sea,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/70/
+141,kabutops,Rock,Water,13,405,kabutops,"['swift-swim', 'battle-armor', 'weak-armor']",sea,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/70/
+142,aerodactyl,Rock,Flying,18,590,aerodactyl,"['rock-head', 'pressure', 'unnerve']",mountain,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/71/
+143,snorlax,Normal,,21,4600,snorlax,"['immunity', 'thick-fat', 'gluttony']",mountain,black,False,False,https://pokeapi.co/api/v2/evolution-chain/72/
+144,articuno,Ice,Flying,17,554,articuno,"['pressure', 'snow-cloak']",rare,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/73/
+145,zapdos,Electric,Flying,16,526,zapdos,"['pressure', 'static']",rare,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/74/
+146,moltres,Fire,Flying,20,600,moltres,"['pressure', 'flame-body']",rare,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/75/
+147,dratini,Dragon,,18,33,dratini,"['shed-skin', 'marvel-scale']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/76/
+148,dragonair,Dragon,,40,165,dragonair,"['shed-skin', 'marvel-scale']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/76/
+149,dragonite,Dragon,Flying,22,2100,dragonite,"['inner-focus', 'multiscale']",waters-edge,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/76/
+150,mewtwo,Psychic,,20,1220,mewtwo,"['pressure', 'unnerve']",rare,purple,True,False,https://pokeapi.co/api/v2/evolution-chain/77/
+151,mew,Psychic,,4,40,mew,['synchronize'],rare,pink,False,True,https://pokeapi.co/api/v2/evolution-chain/78/
+152,chikorita,Grass,,9,64,chikorita,"['overgrow', 'leaf-guard']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/79/
+153,bayleef,Grass,,12,158,bayleef,"['overgrow', 'leaf-guard']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/79/
+154,meganium,Grass,,18,1005,meganium,"['overgrow', 'leaf-guard']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/79/
+155,cyndaquil,Fire,,5,79,cyndaquil,"['blaze', 'flash-fire']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/80/
+156,quilava,Fire,,9,190,quilava,"['blaze', 'flash-fire']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/80/
+157,typhlosion,Fire,,17,795,typhlosion,"['blaze', 'flash-fire']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/80/
+158,totodile,Water,,6,95,totodile,"['torrent', 'sheer-force']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/81/
+159,croconaw,Water,,11,250,croconaw,"['torrent', 'sheer-force']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/81/
+160,feraligatr,Water,,23,888,feraligatr,"['torrent', 'sheer-force']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/81/
+161,sentret,Normal,,8,60,sentret,"['run-away', 'keen-eye', 'frisk']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/82/
+162,furret,Normal,,18,325,furret,"['run-away', 'keen-eye', 'frisk']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/82/
+163,hoothoot,Normal,Flying,7,212,hoothoot,"['insomnia', 'keen-eye', 'tinted-lens']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/83/
+164,noctowl,Normal,Flying,16,408,noctowl,"['insomnia', 'keen-eye', 'tinted-lens']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/83/
+165,ledyba,Bug,Flying,10,108,ledyba,"['swarm', 'early-bird', 'rattled']",forest,red,False,False,https://pokeapi.co/api/v2/evolution-chain/84/
+166,ledian,Bug,Flying,14,356,ledian,"['swarm', 'early-bird', 'iron-fist']",forest,red,False,False,https://pokeapi.co/api/v2/evolution-chain/84/
+167,spinarak,Bug,Poison,5,85,spinarak,"['swarm', 'insomnia', 'sniper']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/85/
+168,ariados,Bug,Poison,11,335,ariados,"['swarm', 'insomnia', 'sniper']",forest,red,False,False,https://pokeapi.co/api/v2/evolution-chain/85/
+169,crobat,Poison,Flying,18,750,crobat,"['inner-focus', 'infiltrator']",cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/17/
+170,chinchou,Water,Electric,5,120,chinchou,"['volt-absorb', 'illuminate', 'water-absorb']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/86/
+171,lanturn,Water,Electric,12,225,lanturn,"['volt-absorb', 'illuminate', 'water-absorb']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/86/
+172,pichu,Electric,,3,20,pichu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+173,cleffa,Fairy,,3,30,cleffa,"['cute-charm', 'magic-guard', 'friend-guard']",mountain,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/14/
+174,igglybuff,Normal,Fairy,3,10,igglybuff,"['cute-charm', 'competitive', 'friend-guard']",grassland,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/16/
+175,togepi,Fairy,,3,15,togepi,"['hustle', 'serene-grace', 'super-luck']",forest,white,False,False,https://pokeapi.co/api/v2/evolution-chain/87/
+176,togetic,Fairy,Flying,6,32,togetic,"['hustle', 'serene-grace', 'super-luck']",forest,white,False,False,https://pokeapi.co/api/v2/evolution-chain/87/
+177,natu,Psychic,Flying,2,20,natu,"['synchronize', 'early-bird', 'magic-bounce']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/88/
+178,xatu,Psychic,Flying,15,150,xatu,"['synchronize', 'early-bird', 'magic-bounce']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/88/
+179,mareep,Electric,,6,78,mareep,"['static', 'plus']",grassland,white,False,False,https://pokeapi.co/api/v2/evolution-chain/89/
+180,flaaffy,Electric,,8,133,flaaffy,"['static', 'plus']",grassland,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/89/
+181,ampharos,Electric,,14,615,ampharos,"['static', 'plus']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/89/
+182,bellossom,Grass,,4,58,bellossom,"['chlorophyll', 'healer']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/18/
+183,marill,Water,Fairy,4,85,marill,"['thick-fat', 'huge-power', 'sap-sipper']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/90/
+184,azumarill,Water,Fairy,8,285,azumarill,"['thick-fat', 'huge-power', 'sap-sipper']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/90/
+185,sudowoodo,Rock,,12,380,sudowoodo,"['sturdy', 'rock-head', 'rattled']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/91/
+186,politoed,Water,,11,339,politoed,"['water-absorb', 'damp', 'drizzle']",waters-edge,green,False,False,https://pokeapi.co/api/v2/evolution-chain/26/
+187,hoppip,Grass,Flying,4,5,hoppip,"['chlorophyll', 'leaf-guard', 'infiltrator']",grassland,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/92/
+188,skiploom,Grass,Flying,6,10,skiploom,"['chlorophyll', 'leaf-guard', 'infiltrator']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/92/
+189,jumpluff,Grass,Flying,8,30,jumpluff,"['chlorophyll', 'leaf-guard', 'infiltrator']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/92/
+190,aipom,Normal,,8,115,aipom,"['run-away', 'pickup', 'skill-link']",forest,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/93/
+191,sunkern,Grass,,3,18,sunkern,"['chlorophyll', 'solar-power', 'early-bird']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/94/
+192,sunflora,Grass,,8,85,sunflora,"['chlorophyll', 'solar-power', 'early-bird']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/94/
+193,yanma,Bug,Flying,12,380,yanma,"['speed-boost', 'compound-eyes', 'frisk']",forest,red,False,False,https://pokeapi.co/api/v2/evolution-chain/95/
+194,wooper,Water,Ground,4,85,wooper,"['damp', 'water-absorb', 'unaware']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/96/
+195,quagsire,Water,Ground,14,750,quagsire,"['damp', 'water-absorb', 'unaware']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/96/
+196,espeon,Psychic,,9,265,espeon,"['synchronize', 'magic-bounce']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+197,umbreon,Dark,,10,270,umbreon,"['synchronize', 'inner-focus']",urban,black,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+198,murkrow,Dark,Flying,5,21,murkrow,"['insomnia', 'super-luck', 'prankster']",forest,black,False,False,https://pokeapi.co/api/v2/evolution-chain/97/
+199,slowking,Water,Psychic,20,795,slowking,"['oblivious', 'own-tempo', 'regenerator']",waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/33/
+200,misdreavus,Ghost,,7,10,misdreavus,['levitate'],cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/98/
+201,unown,Psychic,,5,50,unown,['levitate'],rare,black,False,False,https://pokeapi.co/api/v2/evolution-chain/99/
+202,wobbuffet,Psychic,,13,285,wobbuffet,"['shadow-tag', 'telepathy']",cave,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/100/
+203,girafarig,Normal,Psychic,15,415,girafarig,"['inner-focus', 'early-bird', 'sap-sipper']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/101/
+204,pineco,Bug,,6,72,pineco,"['sturdy', 'overcoat']",forest,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/102/
+205,forretress,Bug,Steel,12,1258,forretress,"['sturdy', 'overcoat']",forest,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/102/
+206,dunsparce,Normal,,15,140,dunsparce,"['serene-grace', 'run-away', 'rattled']",cave,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/103/
+207,gligar,Ground,Flying,11,648,gligar,"['hyper-cutter', 'sand-veil', 'immunity']",mountain,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/104/
+208,steelix,Steel,Ground,92,4000,steelix,"['rock-head', 'sturdy', 'sheer-force']",cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/41/
+209,snubbull,Fairy,,6,78,snubbull,"['intimidate', 'run-away', 'rattled']",urban,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/105/
+210,granbull,Fairy,,14,487,granbull,"['intimidate', 'quick-feet', 'rattled']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/105/
+211,qwilfish,Water,Poison,5,39,qwilfish,"['poison-point', 'swift-swim', 'intimidate']",sea,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/106/
+212,scizor,Bug,Steel,18,1180,scizor,"['swarm', 'technician', 'light-metal']",grassland,red,False,False,https://pokeapi.co/api/v2/evolution-chain/58/
+213,shuckle,Bug,Rock,6,205,shuckle,"['sturdy', 'gluttony', 'contrary']",mountain,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/107/
+214,heracross,Bug,Fighting,15,540,heracross,"['swarm', 'guts', 'moxie']",forest,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/108/
+215,sneasel,Dark,Ice,9,280,sneasel,"['inner-focus', 'keen-eye', 'pickpocket']",forest,black,False,False,https://pokeapi.co/api/v2/evolution-chain/109/
+216,teddiursa,Normal,,6,88,teddiursa,"['pickup', 'quick-feet', 'honey-gather']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/110/
+217,ursaring,Normal,,18,1258,ursaring,"['guts', 'quick-feet', 'unnerve']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/110/
+218,slugma,Fire,,7,350,slugma,"['magma-armor', 'flame-body', 'weak-armor']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/111/
+219,magcargo,Fire,Rock,8,550,magcargo,"['magma-armor', 'flame-body', 'weak-armor']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/111/
+220,swinub,Ice,Ground,4,65,swinub,"['oblivious', 'snow-cloak', 'thick-fat']",cave,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/112/
+221,piloswine,Ice,Ground,11,558,piloswine,"['oblivious', 'snow-cloak', 'thick-fat']",cave,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/112/
+222,corsola,Water,Rock,6,50,corsola,"['hustle', 'natural-cure', 'regenerator']",sea,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/113/
+223,remoraid,Water,,6,120,remoraid,"['hustle', 'sniper', 'moody']",sea,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/114/
+224,octillery,Water,,9,285,octillery,"['suction-cups', 'sniper', 'moody']",sea,red,False,False,https://pokeapi.co/api/v2/evolution-chain/114/
+225,delibird,Ice,Flying,9,160,delibird,"['vital-spirit', 'hustle', 'insomnia']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/115/
+226,mantine,Water,Flying,21,2200,mantine,"['swift-swim', 'water-absorb', 'water-veil']",sea,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/116/
+227,skarmory,Steel,Flying,17,505,skarmory,"['keen-eye', 'sturdy', 'weak-armor']",rough-terrain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/117/
+228,houndour,Dark,Fire,6,108,houndour,"['early-bird', 'flash-fire', 'unnerve']",rough-terrain,black,False,False,https://pokeapi.co/api/v2/evolution-chain/118/
+229,houndoom,Dark,Fire,14,350,houndoom,"['early-bird', 'flash-fire', 'unnerve']",rough-terrain,black,False,False,https://pokeapi.co/api/v2/evolution-chain/118/
+230,kingdra,Water,Dragon,18,1520,kingdra,"['swift-swim', 'sniper', 'damp']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/54/
+231,phanpy,Ground,,5,335,phanpy,"['pickup', 'sand-veil']",rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/119/
+232,donphan,Ground,,11,1200,donphan,"['sturdy', 'sand-veil']",rough-terrain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/119/
+233,porygon2,Normal,,6,325,porygon2,"['trace', 'download', 'analytic']",urban,red,False,False,https://pokeapi.co/api/v2/evolution-chain/68/
+234,stantler,Normal,,14,712,stantler,"['intimidate', 'frisk', 'sap-sipper']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/120/
+235,smeargle,Normal,,12,580,smeargle,"['own-tempo', 'technician', 'moody']",urban,white,False,False,https://pokeapi.co/api/v2/evolution-chain/121/
+236,tyrogue,Fighting,,7,210,tyrogue,"['guts', 'steadfast', 'vital-spirit']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/47/
+237,hitmontop,Fighting,,14,480,hitmontop,"['intimidate', 'technician', 'steadfast']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/47/
+238,smoochum,Ice,Psychic,4,60,smoochum,"['oblivious', 'forewarn', 'hydration']",urban,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/59/
+239,elekid,Electric,,6,235,elekid,"['static', 'vital-spirit']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/60/
+240,magby,Fire,,7,214,magby,"['flame-body', 'vital-spirit']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/61/
+241,miltank,Normal,,12,755,miltank,"['thick-fat', 'scrappy', 'sap-sipper']",grassland,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/122/
+242,blissey,Normal,,15,468,blissey,"['natural-cure', 'serene-grace', 'healer']",urban,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/51/
+243,raikou,Electric,,19,1780,raikou,"['pressure', 'inner-focus']",grassland,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/123/
+244,entei,Fire,,21,1980,entei,"['pressure', 'inner-focus']",grassland,brown,True,False,https://pokeapi.co/api/v2/evolution-chain/124/
+245,suicune,Water,,20,1870,suicune,"['pressure', 'inner-focus']",grassland,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/125/
+246,larvitar,Rock,Ground,6,720,larvitar,"['guts', 'sand-veil']",mountain,green,False,False,https://pokeapi.co/api/v2/evolution-chain/126/
+247,pupitar,Rock,Ground,12,1520,pupitar,['shed-skin'],mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/126/
+248,tyranitar,Rock,Dark,20,2020,tyranitar,"['sand-stream', 'unnerve']",mountain,green,False,False,https://pokeapi.co/api/v2/evolution-chain/126/
+249,lugia,Psychic,Flying,52,2160,lugia,"['pressure', 'multiscale']",rare,white,True,False,https://pokeapi.co/api/v2/evolution-chain/127/
+250,ho-oh,Fire,Flying,38,1990,ho-oh,"['pressure', 'regenerator']",rare,red,True,False,https://pokeapi.co/api/v2/evolution-chain/128/
+251,celebi,Psychic,Grass,6,50,celebi,['natural-cure'],forest,green,False,True,https://pokeapi.co/api/v2/evolution-chain/129/
+252,treecko,Grass,,5,50,treecko,"['overgrow', 'unburden']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/130/
+253,grovyle,Grass,,9,216,grovyle,"['overgrow', 'unburden']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/130/
+254,sceptile,Grass,,17,522,sceptile,"['overgrow', 'unburden']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/130/
+255,torchic,Fire,,4,25,torchic,"['blaze', 'speed-boost']",grassland,red,False,False,https://pokeapi.co/api/v2/evolution-chain/131/
+256,combusken,Fire,Fighting,9,195,combusken,"['blaze', 'speed-boost']",grassland,red,False,False,https://pokeapi.co/api/v2/evolution-chain/131/
+257,blaziken,Fire,Fighting,19,520,blaziken,"['blaze', 'speed-boost']",grassland,red,False,False,https://pokeapi.co/api/v2/evolution-chain/131/
+258,mudkip,Water,,4,76,mudkip,"['torrent', 'damp']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/132/
+259,marshtomp,Water,Ground,7,280,marshtomp,"['torrent', 'damp']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/132/
+260,swampert,Water,Ground,15,819,swampert,"['torrent', 'damp']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/132/
+261,poochyena,Dark,,5,136,poochyena,"['run-away', 'quick-feet', 'rattled']",grassland,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/133/
+262,mightyena,Dark,,10,370,mightyena,"['intimidate', 'quick-feet', 'moxie']",grassland,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/133/
+263,zigzagoon,Normal,,4,175,zigzagoon,"['pickup', 'gluttony', 'quick-feet']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/134/
+264,linoone,Normal,,5,325,linoone,"['pickup', 'gluttony', 'quick-feet']",grassland,white,False,False,https://pokeapi.co/api/v2/evolution-chain/134/
+265,wurmple,Bug,,3,36,wurmple,"['shield-dust', 'run-away']",forest,red,False,False,https://pokeapi.co/api/v2/evolution-chain/135/
+266,silcoon,Bug,,6,100,silcoon,['shed-skin'],forest,white,False,False,https://pokeapi.co/api/v2/evolution-chain/135/
+267,beautifly,Bug,Flying,10,284,beautifly,"['swarm', 'rivalry']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/135/
+268,cascoon,Bug,,7,115,cascoon,['shed-skin'],forest,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/135/
+269,dustox,Bug,Poison,12,316,dustox,"['shield-dust', 'compound-eyes']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/135/
+270,lotad,Water,Grass,5,26,lotad,"['swift-swim', 'rain-dish', 'own-tempo']",waters-edge,green,False,False,https://pokeapi.co/api/v2/evolution-chain/136/
+271,lombre,Water,Grass,12,325,lombre,"['swift-swim', 'rain-dish', 'own-tempo']",waters-edge,green,False,False,https://pokeapi.co/api/v2/evolution-chain/136/
+272,ludicolo,Water,Grass,15,550,ludicolo,"['swift-swim', 'rain-dish', 'own-tempo']",waters-edge,green,False,False,https://pokeapi.co/api/v2/evolution-chain/136/
+273,seedot,Grass,,5,40,seedot,"['chlorophyll', 'early-bird', 'pickpocket']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/137/
+274,nuzleaf,Grass,Dark,10,280,nuzleaf,"['chlorophyll', 'early-bird', 'pickpocket']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/137/
+275,shiftry,Grass,Dark,13,596,shiftry,"['chlorophyll', 'wind-rider', 'pickpocket']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/137/
+276,taillow,Normal,Flying,3,23,taillow,"['guts', 'scrappy']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/138/
+277,swellow,Normal,Flying,7,198,swellow,"['guts', 'scrappy']",grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/138/
+278,wingull,Water,Flying,6,95,wingull,"['keen-eye', 'hydration', 'rain-dish']",sea,white,False,False,https://pokeapi.co/api/v2/evolution-chain/139/
+279,pelipper,Water,Flying,12,280,pelipper,"['keen-eye', 'drizzle', 'rain-dish']",sea,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/139/
+280,ralts,Psychic,Fairy,4,66,ralts,"['synchronize', 'trace', 'telepathy']",urban,white,False,False,https://pokeapi.co/api/v2/evolution-chain/140/
+281,kirlia,Psychic,Fairy,8,202,kirlia,"['synchronize', 'trace', 'telepathy']",urban,white,False,False,https://pokeapi.co/api/v2/evolution-chain/140/
+282,gardevoir,Psychic,Fairy,16,484,gardevoir,"['synchronize', 'trace', 'telepathy']",urban,white,False,False,https://pokeapi.co/api/v2/evolution-chain/140/
+283,surskit,Bug,Water,5,17,surskit,"['swift-swim', 'rain-dish']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/141/
+284,masquerain,Bug,Flying,8,36,masquerain,"['intimidate', 'unnerve']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/141/
+285,shroomish,Grass,,4,45,shroomish,"['effect-spore', 'poison-heal', 'quick-feet']",forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/142/
+286,breloom,Grass,Fighting,12,392,breloom,"['effect-spore', 'poison-heal', 'technician']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/142/
+287,slakoth,Normal,,8,240,slakoth,['truant'],forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/143/
+288,vigoroth,Normal,,14,465,vigoroth,['vital-spirit'],forest,white,False,False,https://pokeapi.co/api/v2/evolution-chain/143/
+289,slaking,Normal,,20,1305,slaking,['truant'],forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/143/
+290,nincada,Bug,Ground,5,55,nincada,"['compound-eyes', 'run-away']",forest,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/144/
+291,ninjask,Bug,Flying,8,120,ninjask,"['speed-boost', 'infiltrator']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/144/
+292,shedinja,Bug,Ghost,8,12,shedinja,['wonder-guard'],forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/144/
+293,whismur,Normal,,6,163,whismur,"['soundproof', 'rattled']",cave,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/145/
+294,loudred,Normal,,10,405,loudred,"['soundproof', 'scrappy']",cave,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/145/
+295,exploud,Normal,,15,840,exploud,"['soundproof', 'scrappy']",cave,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/145/
+296,makuhita,Fighting,,10,864,makuhita,"['thick-fat', 'guts', 'sheer-force']",mountain,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/146/
+297,hariyama,Fighting,,23,2538,hariyama,"['thick-fat', 'guts', 'sheer-force']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/146/
+298,azurill,Normal,Fairy,2,20,azurill,"['thick-fat', 'huge-power', 'sap-sipper']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/90/
+299,nosepass,Rock,,10,970,nosepass,"['sturdy', 'magnet-pull', 'sand-force']",cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/147/
+300,skitty,Normal,,6,110,skitty,"['cute-charm', 'normalize', 'wonder-skin']",forest,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/148/
+301,delcatty,Normal,,11,326,delcatty,"['cute-charm', 'normalize', 'wonder-skin']",forest,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/148/
+302,sableye,Dark,Ghost,5,110,sableye,"['keen-eye', 'stall', 'prankster']",cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/149/
+303,mawile,Steel,Fairy,6,115,mawile,"['hyper-cutter', 'intimidate', 'sheer-force']",cave,black,False,False,https://pokeapi.co/api/v2/evolution-chain/150/
+304,aron,Steel,Rock,4,600,aron,"['sturdy', 'rock-head', 'heavy-metal']",mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/151/
+305,lairon,Steel,Rock,9,1200,lairon,"['sturdy', 'rock-head', 'heavy-metal']",mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/151/
+306,aggron,Steel,Rock,21,3600,aggron,"['sturdy', 'rock-head', 'heavy-metal']",mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/151/
+307,meditite,Fighting,Psychic,6,112,meditite,"['pure-power', 'telepathy']",mountain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/152/
+308,medicham,Fighting,Psychic,13,315,medicham,"['pure-power', 'telepathy']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/152/
+309,electrike,Electric,,6,152,electrike,"['static', 'lightning-rod', 'minus']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/153/
+310,manectric,Electric,,15,402,manectric,"['static', 'lightning-rod', 'minus']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/153/
+311,plusle,Electric,,4,42,plusle,"['plus', 'lightning-rod']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/154/
+312,minun,Electric,,4,42,minun,"['minus', 'volt-absorb']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/155/
+313,volbeat,Bug,,7,177,volbeat,"['illuminate', 'swarm', 'prankster']",forest,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/156/
+314,illumise,Bug,,6,177,illumise,"['oblivious', 'tinted-lens', 'prankster']",forest,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/157/
+315,roselia,Grass,Poison,3,20,roselia,"['natural-cure', 'poison-point', 'leaf-guard']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/158/
+316,gulpin,Poison,,4,103,gulpin,"['liquid-ooze', 'sticky-hold', 'gluttony']",grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/159/
+317,swalot,Poison,,17,800,swalot,"['liquid-ooze', 'sticky-hold', 'gluttony']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/159/
+318,carvanha,Water,Dark,8,208,carvanha,"['rough-skin', 'speed-boost']",sea,red,False,False,https://pokeapi.co/api/v2/evolution-chain/160/
+319,sharpedo,Water,Dark,18,888,sharpedo,"['rough-skin', 'speed-boost']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/160/
+320,wailmer,Water,,20,1300,wailmer,"['water-veil', 'oblivious', 'pressure']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/161/
+321,wailord,Water,,145,3980,wailord,"['water-veil', 'oblivious', 'pressure']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/161/
+322,numel,Fire,Ground,7,240,numel,"['oblivious', 'simple', 'own-tempo']",mountain,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/162/
+323,camerupt,Fire,Ground,19,2200,camerupt,"['magma-armor', 'solid-rock', 'anger-point']",mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/162/
+324,torkoal,Fire,,5,804,torkoal,"['white-smoke', 'drought', 'shell-armor']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/163/
+325,spoink,Psychic,,7,306,spoink,"['thick-fat', 'own-tempo', 'gluttony']",mountain,black,False,False,https://pokeapi.co/api/v2/evolution-chain/164/
+326,grumpig,Psychic,,9,715,grumpig,"['thick-fat', 'own-tempo', 'gluttony']",mountain,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/164/
+327,spinda,Normal,,11,50,spinda,"['own-tempo', 'tangled-feet', 'contrary']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/165/
+328,trapinch,Ground,,7,150,trapinch,"['hyper-cutter', 'arena-trap', 'sheer-force']",rough-terrain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/166/
+329,vibrava,Ground,Dragon,11,153,vibrava,['levitate'],rough-terrain,green,False,False,https://pokeapi.co/api/v2/evolution-chain/166/
+330,flygon,Ground,Dragon,20,820,flygon,['levitate'],rough-terrain,green,False,False,https://pokeapi.co/api/v2/evolution-chain/166/
+331,cacnea,Grass,,4,513,cacnea,"['sand-veil', 'water-absorb']",rough-terrain,green,False,False,https://pokeapi.co/api/v2/evolution-chain/167/
+332,cacturne,Grass,Dark,13,774,cacturne,"['sand-veil', 'water-absorb']",rough-terrain,green,False,False,https://pokeapi.co/api/v2/evolution-chain/167/
+333,swablu,Normal,Flying,4,12,swablu,"['natural-cure', 'cloud-nine']",forest,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/168/
+334,altaria,Dragon,Flying,11,206,altaria,"['natural-cure', 'cloud-nine']",forest,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/168/
+335,zangoose,Normal,,13,403,zangoose,"['immunity', 'toxic-boost']",grassland,white,False,False,https://pokeapi.co/api/v2/evolution-chain/169/
+336,seviper,Poison,,27,525,seviper,"['shed-skin', 'infiltrator']",grassland,black,False,False,https://pokeapi.co/api/v2/evolution-chain/170/
+337,lunatone,Rock,Psychic,10,1680,lunatone,['levitate'],cave,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/171/
+338,solrock,Rock,Psychic,12,1540,solrock,['levitate'],cave,red,False,False,https://pokeapi.co/api/v2/evolution-chain/172/
+339,barboach,Water,Ground,4,19,barboach,"['oblivious', 'anticipation', 'hydration']",waters-edge,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/173/
+340,whiscash,Water,Ground,9,236,whiscash,"['oblivious', 'anticipation', 'hydration']",waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/173/
+341,corphish,Water,,6,115,corphish,"['hyper-cutter', 'shell-armor', 'adaptability']",waters-edge,red,False,False,https://pokeapi.co/api/v2/evolution-chain/174/
+342,crawdaunt,Water,Dark,11,328,crawdaunt,"['hyper-cutter', 'shell-armor', 'adaptability']",waters-edge,red,False,False,https://pokeapi.co/api/v2/evolution-chain/174/
+343,baltoy,Ground,Psychic,5,215,baltoy,['levitate'],rough-terrain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/175/
+344,claydol,Ground,Psychic,15,1080,claydol,['levitate'],rough-terrain,black,False,False,https://pokeapi.co/api/v2/evolution-chain/175/
+345,lileep,Rock,Grass,10,238,lileep,"['suction-cups', 'storm-drain']",sea,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/176/
+346,cradily,Rock,Grass,15,604,cradily,"['suction-cups', 'storm-drain']",sea,green,False,False,https://pokeapi.co/api/v2/evolution-chain/176/
+347,anorith,Rock,Bug,7,125,anorith,"['battle-armor', 'swift-swim']",waters-edge,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/177/
+348,armaldo,Rock,Bug,15,682,armaldo,"['battle-armor', 'swift-swim']",waters-edge,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/177/
+349,feebas,Water,,6,74,feebas,"['swift-swim', 'oblivious', 'adaptability']",waters-edge,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/178/
+350,milotic,Water,,62,1620,milotic,"['marvel-scale', 'competitive', 'cute-charm']",waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/178/
+351,castform,Normal,,3,8,castform,['forecast'],grassland,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/179/
+352,kecleon,Normal,,10,220,kecleon,"['color-change', 'protean']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/180/
+353,shuppet,Ghost,,6,23,shuppet,"['insomnia', 'frisk', 'cursed-body']",urban,black,False,False,https://pokeapi.co/api/v2/evolution-chain/181/
+354,banette,Ghost,,11,125,banette,"['insomnia', 'frisk', 'cursed-body']",urban,black,False,False,https://pokeapi.co/api/v2/evolution-chain/181/
+355,duskull,Ghost,,8,150,duskull,"['levitate', 'frisk']",forest,black,False,False,https://pokeapi.co/api/v2/evolution-chain/182/
+356,dusclops,Ghost,,16,306,dusclops,"['pressure', 'frisk']",forest,black,False,False,https://pokeapi.co/api/v2/evolution-chain/182/
+357,tropius,Grass,Flying,20,1000,tropius,"['chlorophyll', 'solar-power', 'harvest']",forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/183/
+358,chimecho,Psychic,,6,10,chimecho,['levitate'],grassland,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/184/
+359,absol,Dark,,12,470,absol,"['pressure', 'super-luck', 'justified']",mountain,white,False,False,https://pokeapi.co/api/v2/evolution-chain/185/
+360,wynaut,Psychic,,6,140,wynaut,"['shadow-tag', 'telepathy']",cave,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/100/
+361,snorunt,Ice,,7,168,snorunt,"['inner-focus', 'ice-body', 'moody']",cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/186/
+362,glalie,Ice,,15,2565,glalie,"['inner-focus', 'ice-body', 'moody']",cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/186/
+363,spheal,Ice,Water,8,395,spheal,"['thick-fat', 'ice-body', 'oblivious']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/187/
+364,sealeo,Ice,Water,11,876,sealeo,"['thick-fat', 'ice-body', 'oblivious']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/187/
+365,walrein,Ice,Water,14,1506,walrein,"['thick-fat', 'ice-body', 'oblivious']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/187/
+366,clamperl,Water,,4,525,clamperl,"['shell-armor', 'rattled']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/188/
+367,huntail,Water,,17,270,huntail,"['swift-swim', 'water-veil']",sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/188/
+368,gorebyss,Water,,18,226,gorebyss,"['swift-swim', 'hydration']",sea,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/188/
+369,relicanth,Water,Rock,10,234,relicanth,"['swift-swim', 'rock-head', 'sturdy']",sea,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/189/
+370,luvdisc,Water,,6,87,luvdisc,"['swift-swim', 'hydration']",sea,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/190/
+371,bagon,Dragon,,6,421,bagon,"['rock-head', 'sheer-force']",rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/191/
+372,shelgon,Dragon,,11,1105,shelgon,"['rock-head', 'overcoat']",rough-terrain,white,False,False,https://pokeapi.co/api/v2/evolution-chain/191/
+373,salamence,Dragon,Flying,15,1026,salamence,"['intimidate', 'moxie']",rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/191/
+374,beldum,Steel,Psychic,6,952,beldum,"['clear-body', 'light-metal']",rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/192/
+375,metang,Steel,Psychic,12,2025,metang,"['clear-body', 'light-metal']",rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/192/
+376,metagross,Steel,Psychic,16,5500,metagross,"['clear-body', 'light-metal']",rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/192/
+377,regirock,Rock,,17,2300,regirock,"['clear-body', 'sturdy']",cave,brown,True,False,https://pokeapi.co/api/v2/evolution-chain/193/
+378,regice,Ice,,18,1750,regice,"['clear-body', 'ice-body']",cave,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/194/
+379,registeel,Steel,,19,2050,registeel,"['clear-body', 'light-metal']",cave,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/195/
+380,latias,Dragon,Psychic,14,400,latias,['levitate'],waters-edge,red,True,False,https://pokeapi.co/api/v2/evolution-chain/196/
+381,latios,Dragon,Psychic,20,600,latios,['levitate'],waters-edge,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/197/
+382,kyogre,Water,,45,3520,kyogre,['drizzle'],sea,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/198/
+383,groudon,Ground,,35,9500,groudon,['drought'],rough-terrain,red,True,False,https://pokeapi.co/api/v2/evolution-chain/199/
+384,rayquaza,Dragon,Flying,70,2065,rayquaza,['air-lock'],rare,green,True,False,https://pokeapi.co/api/v2/evolution-chain/200/
+385,jirachi,Steel,Psychic,3,11,jirachi,['serene-grace'],mountain,yellow,False,True,https://pokeapi.co/api/v2/evolution-chain/201/
+386,deoxys-normal,Psychic,,17,608,deoxys,['pressure'],rare,red,False,True,https://pokeapi.co/api/v2/evolution-chain/202/
+387,turtwig,Grass,,4,102,turtwig,"['overgrow', 'shell-armor']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/203/
+388,grotle,Grass,,11,970,grotle,"['overgrow', 'shell-armor']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/203/
+389,torterra,Grass,Ground,22,3100,torterra,"['overgrow', 'shell-armor']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/203/
+390,chimchar,Fire,,5,62,chimchar,"['blaze', 'iron-fist']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/204/
+391,monferno,Fire,Fighting,9,220,monferno,"['blaze', 'iron-fist']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/204/
+392,infernape,Fire,Fighting,12,550,infernape,"['blaze', 'iron-fist']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/204/
+393,piplup,Water,,4,52,piplup,"['torrent', 'competitive']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/205/
+394,prinplup,Water,,8,230,prinplup,"['torrent', 'competitive']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/205/
+395,empoleon,Water,Steel,17,845,empoleon,"['torrent', 'competitive']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/205/
+396,starly,Normal,Flying,3,20,starly,"['keen-eye', 'reckless']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/206/
+397,staravia,Normal,Flying,6,155,staravia,"['intimidate', 'reckless']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/206/
+398,staraptor,Normal,Flying,12,249,staraptor,"['intimidate', 'reckless']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/206/
+399,bidoof,Normal,,5,200,bidoof,"['simple', 'unaware', 'moody']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/207/
+400,bibarel,Normal,Water,10,315,bibarel,"['simple', 'unaware', 'moody']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/207/
+401,kricketot,Bug,,3,22,kricketot,"['shed-skin', 'run-away']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/208/
+402,kricketune,Bug,,10,255,kricketune,"['swarm', 'technician']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/208/
+403,shinx,Electric,,5,95,shinx,"['rivalry', 'intimidate', 'guts']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/209/
+404,luxio,Electric,,9,305,luxio,"['rivalry', 'intimidate', 'guts']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/209/
+405,luxray,Electric,,14,420,luxray,"['rivalry', 'intimidate', 'guts']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/209/
+406,budew,Grass,Poison,2,12,budew,"['natural-cure', 'poison-point', 'leaf-guard']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/158/
+407,roserade,Grass,Poison,9,145,roserade,"['natural-cure', 'poison-point', 'technician']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/158/
+408,cranidos,Rock,,9,315,cranidos,"['mold-breaker', 'sheer-force']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/211/
+409,rampardos,Rock,,16,1025,rampardos,"['mold-breaker', 'sheer-force']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/211/
+410,shieldon,Rock,Steel,5,570,shieldon,"['sturdy', 'soundproof']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/212/
+411,bastiodon,Rock,Steel,13,1495,bastiodon,"['sturdy', 'soundproof']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/212/
+412,burmy,Bug,,2,34,burmy,"['shed-skin', 'overcoat']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/213/
+413,wormadam-plant,Bug,Grass,5,65,wormadam,"['anticipation', 'overcoat']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/213/
+414,mothim,Bug,Flying,9,233,mothim,"['swarm', 'tinted-lens']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/213/
+415,combee,Bug,Flying,3,55,combee,"['honey-gather', 'hustle']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/214/
+416,vespiquen,Bug,Flying,12,385,vespiquen,"['pressure', 'unnerve']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/214/
+417,pachirisu,Electric,,4,39,pachirisu,"['run-away', 'pickup', 'volt-absorb']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/215/
+418,buizel,Water,,7,295,buizel,"['swift-swim', 'water-veil']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/216/
+419,floatzel,Water,,11,335,floatzel,"['swift-swim', 'water-veil']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/216/
+420,cherubi,Grass,,4,33,cherubi,['chlorophyll'],,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/217/
+421,cherrim,Grass,,5,93,cherrim,['flower-gift'],,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/217/
+422,shellos,Water,,3,63,shellos,"['sticky-hold', 'storm-drain', 'sand-force']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/218/
+423,gastrodon,Water,Ground,9,299,gastrodon,"['sticky-hold', 'storm-drain', 'sand-force']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/218/
+424,ambipom,Normal,,12,203,ambipom,"['technician', 'pickup', 'skill-link']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/93/
+425,drifloon,Ghost,Flying,4,12,drifloon,"['aftermath', 'unburden', 'flare-boost']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/219/
+426,drifblim,Ghost,Flying,12,150,drifblim,"['aftermath', 'unburden', 'flare-boost']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/219/
+427,buneary,Normal,,4,55,buneary,"['run-away', 'klutz', 'limber']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/220/
+428,lopunny,Normal,,12,333,lopunny,"['cute-charm', 'klutz', 'limber']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/220/
+429,mismagius,Ghost,,9,44,mismagius,['levitate'],,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/98/
+430,honchkrow,Dark,Flying,9,273,honchkrow,"['insomnia', 'super-luck', 'moxie']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/97/
+431,glameow,Normal,,5,39,glameow,"['limber', 'own-tempo', 'keen-eye']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/221/
+432,purugly,Normal,,10,438,purugly,"['thick-fat', 'own-tempo', 'defiant']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/221/
+433,chingling,Psychic,,2,6,chingling,['levitate'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/184/
+434,stunky,Poison,Dark,4,192,stunky,"['stench', 'aftermath', 'keen-eye']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/223/
+435,skuntank,Poison,Dark,10,380,skuntank,"['stench', 'aftermath', 'keen-eye']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/223/
+436,bronzor,Steel,Psychic,5,605,bronzor,"['levitate', 'heatproof', 'heavy-metal']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/224/
+437,bronzong,Steel,Psychic,13,1870,bronzong,"['levitate', 'heatproof', 'heavy-metal']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/224/
+438,bonsly,Rock,,5,150,bonsly,"['sturdy', 'rock-head', 'rattled']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/91/
+439,mime-jr,Psychic,Fairy,6,130,mime-jr,"['soundproof', 'filter', 'technician']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/57/
+440,happiny,Normal,,6,244,happiny,"['natural-cure', 'serene-grace', 'friend-guard']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/51/
+441,chatot,Normal,Flying,5,19,chatot,"['keen-eye', 'tangled-feet', 'big-pecks']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/228/
+442,spiritomb,Ghost,Dark,10,1080,spiritomb,"['pressure', 'infiltrator']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/229/
+443,gible,Dragon,Ground,7,205,gible,"['sand-veil', 'rough-skin']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/230/
+444,gabite,Dragon,Ground,14,560,gabite,"['sand-veil', 'rough-skin']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/230/
+445,garchomp,Dragon,Ground,19,950,garchomp,"['sand-veil', 'rough-skin']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/230/
+446,munchlax,Normal,,6,1050,munchlax,"['pickup', 'thick-fat', 'gluttony']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/72/
+447,riolu,Fighting,,7,202,riolu,"['steadfast', 'inner-focus', 'prankster']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/232/
+448,lucario,Fighting,Steel,12,540,lucario,"['steadfast', 'inner-focus', 'justified']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/232/
+449,hippopotas,Ground,,8,495,hippopotas,"['sand-stream', 'sand-force']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/233/
+450,hippowdon,Ground,,20,3000,hippowdon,"['sand-stream', 'sand-force']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/233/
+451,skorupi,Poison,Bug,8,120,skorupi,"['battle-armor', 'sniper', 'keen-eye']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/234/
+452,drapion,Poison,Dark,13,615,drapion,"['battle-armor', 'sniper', 'keen-eye']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/234/
+453,croagunk,Poison,Fighting,7,230,croagunk,"['anticipation', 'dry-skin', 'poison-touch']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/235/
+454,toxicroak,Poison,Fighting,13,444,toxicroak,"['anticipation', 'dry-skin', 'poison-touch']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/235/
+455,carnivine,Grass,,14,270,carnivine,['levitate'],,green,False,False,https://pokeapi.co/api/v2/evolution-chain/236/
+456,finneon,Water,,4,70,finneon,"['swift-swim', 'storm-drain', 'water-veil']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/237/
+457,lumineon,Water,,12,240,lumineon,"['swift-swim', 'storm-drain', 'water-veil']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/237/
+458,mantyke,Water,Flying,10,650,mantyke,"['swift-swim', 'water-absorb', 'water-veil']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/116/
+459,snover,Grass,Ice,10,505,snover,"['snow-warning', 'soundproof']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/239/
+460,abomasnow,Grass,Ice,22,1355,abomasnow,"['snow-warning', 'soundproof']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/239/
+461,weavile,Dark,Ice,11,340,weavile,"['pressure', 'pickpocket']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/109/
+462,magnezone,Electric,Steel,12,1800,magnezone,"['magnet-pull', 'sturdy', 'analytic']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/34/
+463,lickilicky,Normal,,17,1400,lickilicky,"['own-tempo', 'oblivious', 'cloud-nine']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/48/
+464,rhyperior,Ground,Rock,24,2828,rhyperior,"['lightning-rod', 'solid-rock', 'reckless']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/50/
+465,tangrowth,Grass,,20,1286,tangrowth,"['chlorophyll', 'leaf-guard', 'regenerator']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/52/
+466,electivire,Electric,,18,1386,electivire,"['motor-drive', 'vital-spirit']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/60/
+467,magmortar,Fire,,16,680,magmortar,"['flame-body', 'vital-spirit']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/61/
+468,togekiss,Fairy,Flying,15,380,togekiss,"['hustle', 'serene-grace', 'super-luck']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/87/
+469,yanmega,Bug,Flying,19,515,yanmega,"['speed-boost', 'tinted-lens', 'frisk']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/95/
+470,leafeon,Grass,,10,255,leafeon,"['leaf-guard', 'chlorophyll']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+471,glaceon,Ice,,8,259,glaceon,"['snow-cloak', 'ice-body']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+472,gliscor,Ground,Flying,20,425,gliscor,"['hyper-cutter', 'sand-veil', 'poison-heal']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/104/
+473,mamoswine,Ice,Ground,25,2910,mamoswine,"['oblivious', 'snow-cloak', 'thick-fat']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/112/
+474,porygon-z,Normal,,9,340,porygon-z,"['adaptability', 'download', 'analytic']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/68/
+475,gallade,Psychic,Fighting,16,520,gallade,"['steadfast', 'sharpness', 'justified']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/140/
+476,probopass,Rock,Steel,14,3400,probopass,"['sturdy', 'magnet-pull', 'sand-force']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/147/
+477,dusknoir,Ghost,,22,1066,dusknoir,"['pressure', 'frisk']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/182/
+478,froslass,Ice,Ghost,13,266,froslass,"['snow-cloak', 'cursed-body']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/186/
+479,rotom,Electric,Ghost,3,3,rotom,['levitate'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/240/
+480,uxie,Psychic,,3,3,uxie,['levitate'],,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/241/
+481,mesprit,Psychic,,3,3,mesprit,['levitate'],,pink,True,False,https://pokeapi.co/api/v2/evolution-chain/242/
+482,azelf,Psychic,,3,3,azelf,['levitate'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/243/
+483,dialga,Steel,Dragon,54,6830,dialga,"['pressure', 'telepathy']",,white,True,False,https://pokeapi.co/api/v2/evolution-chain/244/
+484,palkia,Water,Dragon,42,3360,palkia,"['pressure', 'telepathy']",,purple,True,False,https://pokeapi.co/api/v2/evolution-chain/245/
+485,heatran,Fire,Steel,17,4300,heatran,"['flash-fire', 'flame-body']",,brown,True,False,https://pokeapi.co/api/v2/evolution-chain/246/
+486,regigigas,Normal,,37,4200,regigigas,['slow-start'],,white,True,False,https://pokeapi.co/api/v2/evolution-chain/247/
+487,giratina-altered,Ghost,Dragon,45,7500,giratina,"['pressure', 'telepathy']",,black,True,False,https://pokeapi.co/api/v2/evolution-chain/248/
+488,cresselia,Psychic,,15,856,cresselia,['levitate'],,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/249/
+489,phione,Water,,4,31,phione,['hydration'],,blue,False,True,https://pokeapi.co/api/v2/evolution-chain/250/
+490,manaphy,Water,,3,14,manaphy,['hydration'],,blue,False,True,https://pokeapi.co/api/v2/evolution-chain/250/
+491,darkrai,Dark,,15,505,darkrai,['bad-dreams'],,black,False,True,https://pokeapi.co/api/v2/evolution-chain/252/
+492,shaymin-land,Grass,,2,21,shaymin,['natural-cure'],,green,False,True,https://pokeapi.co/api/v2/evolution-chain/253/
+493,arceus,Normal,,32,3200,arceus,['multitype'],,white,False,True,https://pokeapi.co/api/v2/evolution-chain/254/
+494,victini,Psychic,Fire,4,40,victini,['victory-star'],,yellow,False,True,https://pokeapi.co/api/v2/evolution-chain/255/
+495,snivy,Grass,,6,81,snivy,"['overgrow', 'contrary']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/256/
+496,servine,Grass,,8,160,servine,"['overgrow', 'contrary']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/256/
+497,serperior,Grass,,33,630,serperior,"['overgrow', 'contrary']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/256/
+498,tepig,Fire,,5,99,tepig,"['blaze', 'thick-fat']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/257/
+499,pignite,Fire,Fighting,10,555,pignite,"['blaze', 'thick-fat']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/257/
+500,emboar,Fire,Fighting,16,1500,emboar,"['blaze', 'reckless']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/257/
+501,oshawott,Water,,5,59,oshawott,"['torrent', 'shell-armor']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/258/
+502,dewott,Water,,8,245,dewott,"['torrent', 'shell-armor']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/258/
+503,samurott,Water,,15,946,samurott,"['torrent', 'shell-armor']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/258/
+504,patrat,Normal,,5,116,patrat,"['run-away', 'keen-eye', 'analytic']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/259/
+505,watchog,Normal,,11,270,watchog,"['illuminate', 'keen-eye', 'analytic']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/259/
+506,lillipup,Normal,,4,41,lillipup,"['vital-spirit', 'pickup', 'run-away']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/260/
+507,herdier,Normal,,9,147,herdier,"['intimidate', 'sand-rush', 'scrappy']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/260/
+508,stoutland,Normal,,12,610,stoutland,"['intimidate', 'sand-rush', 'scrappy']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/260/
+509,purrloin,Dark,,4,101,purrloin,"['limber', 'unburden', 'prankster']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/261/
+510,liepard,Dark,,11,375,liepard,"['limber', 'unburden', 'prankster']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/261/
+511,pansage,Grass,,6,105,pansage,"['gluttony', 'overgrow']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/262/
+512,simisage,Grass,,11,305,simisage,"['gluttony', 'overgrow']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/262/
+513,pansear,Fire,,6,110,pansear,"['gluttony', 'blaze']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/263/
+514,simisear,Fire,,10,280,simisear,"['gluttony', 'blaze']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/263/
+515,panpour,Water,,6,135,panpour,"['gluttony', 'torrent']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/264/
+516,simipour,Water,,10,290,simipour,"['gluttony', 'torrent']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/264/
+517,munna,Psychic,,6,233,munna,"['forewarn', 'synchronize', 'telepathy']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/265/
+518,musharna,Psychic,,11,605,musharna,"['forewarn', 'synchronize', 'telepathy']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/265/
+519,pidove,Normal,Flying,3,21,pidove,"['big-pecks', 'super-luck', 'rivalry']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/266/
+520,tranquill,Normal,Flying,6,150,tranquill,"['big-pecks', 'super-luck', 'rivalry']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/266/
+521,unfezant,Normal,Flying,12,290,unfezant,"['big-pecks', 'super-luck', 'rivalry']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/266/
+522,blitzle,Electric,,8,298,blitzle,"['lightning-rod', 'motor-drive', 'sap-sipper']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/267/
+523,zebstrika,Electric,,16,795,zebstrika,"['lightning-rod', 'motor-drive', 'sap-sipper']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/267/
+524,roggenrola,Rock,,4,180,roggenrola,"['sturdy', 'weak-armor', 'sand-force']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/268/
+525,boldore,Rock,,9,1020,boldore,"['sturdy', 'weak-armor', 'sand-force']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/268/
+526,gigalith,Rock,,17,2600,gigalith,"['sturdy', 'sand-stream', 'sand-force']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/268/
+527,woobat,Psychic,Flying,4,21,woobat,"['unaware', 'klutz', 'simple']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/269/
+528,swoobat,Psychic,Flying,9,105,swoobat,"['unaware', 'klutz', 'simple']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/269/
+529,drilbur,Ground,,3,85,drilbur,"['sand-rush', 'sand-force', 'mold-breaker']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/270/
+530,excadrill,Ground,Steel,7,404,excadrill,"['sand-rush', 'sand-force', 'mold-breaker']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/270/
+531,audino,Normal,,11,310,audino,"['healer', 'regenerator', 'klutz']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/271/
+532,timburr,Fighting,,6,125,timburr,"['guts', 'sheer-force', 'iron-fist']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/272/
+533,gurdurr,Fighting,,12,400,gurdurr,"['guts', 'sheer-force', 'iron-fist']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/272/
+534,conkeldurr,Fighting,,14,870,conkeldurr,"['guts', 'sheer-force', 'iron-fist']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/272/
+535,tympole,Water,,5,45,tympole,"['swift-swim', 'hydration', 'water-absorb']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/273/
+536,palpitoad,Water,Ground,8,170,palpitoad,"['swift-swim', 'hydration', 'water-absorb']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/273/
+537,seismitoad,Water,Ground,15,620,seismitoad,"['swift-swim', 'poison-touch', 'water-absorb']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/273/
+538,throh,Fighting,,13,555,throh,"['guts', 'inner-focus', 'mold-breaker']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/274/
+539,sawk,Fighting,,14,510,sawk,"['sturdy', 'inner-focus', 'mold-breaker']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/275/
+540,sewaddle,Bug,Grass,3,25,sewaddle,"['swarm', 'chlorophyll', 'overcoat']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/276/
+541,swadloon,Bug,Grass,5,73,swadloon,"['leaf-guard', 'chlorophyll', 'overcoat']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/276/
+542,leavanny,Bug,Grass,12,205,leavanny,"['swarm', 'chlorophyll', 'overcoat']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/276/
+543,venipede,Bug,Poison,4,53,venipede,"['poison-point', 'swarm', 'speed-boost']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/277/
+544,whirlipede,Bug,Poison,12,585,whirlipede,"['poison-point', 'swarm', 'speed-boost']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/277/
+545,scolipede,Bug,Poison,25,2005,scolipede,"['poison-point', 'swarm', 'speed-boost']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/277/
+546,cottonee,Grass,Fairy,3,6,cottonee,"['prankster', 'infiltrator', 'chlorophyll']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/278/
+547,whimsicott,Grass,Fairy,7,66,whimsicott,"['prankster', 'infiltrator', 'chlorophyll']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/278/
+548,petilil,Grass,,5,66,petilil,"['chlorophyll', 'own-tempo', 'leaf-guard']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/279/
+549,lilligant,Grass,,11,163,lilligant,"['chlorophyll', 'own-tempo', 'leaf-guard']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/279/
+550,basculin-red-striped,Water,,10,180,basculin,"['reckless', 'adaptability', 'mold-breaker']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/280/
+551,sandile,Ground,Dark,7,152,sandile,"['intimidate', 'moxie', 'anger-point']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/281/
+552,krokorok,Ground,Dark,10,334,krokorok,"['intimidate', 'moxie', 'anger-point']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/281/
+553,krookodile,Ground,Dark,15,963,krookodile,"['intimidate', 'moxie', 'anger-point']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/281/
+554,darumaka,Fire,,6,375,darumaka,"['hustle', 'inner-focus']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/282/
+555,darmanitan-standard,Fire,,13,929,darmanitan,"['sheer-force', 'zen-mode']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/282/
+556,maractus,Grass,,10,280,maractus,"['water-absorb', 'chlorophyll', 'storm-drain']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/283/
+557,dwebble,Bug,Rock,3,145,dwebble,"['sturdy', 'shell-armor', 'weak-armor']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/284/
+558,crustle,Bug,Rock,14,2000,crustle,"['sturdy', 'shell-armor', 'weak-armor']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/284/
+559,scraggy,Dark,Fighting,6,118,scraggy,"['shed-skin', 'moxie', 'intimidate']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/285/
+560,scrafty,Dark,Fighting,11,300,scrafty,"['shed-skin', 'moxie', 'intimidate']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/285/
+561,sigilyph,Psychic,Flying,14,140,sigilyph,"['wonder-skin', 'magic-guard', 'tinted-lens']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/286/
+562,yamask,Ghost,,5,15,yamask,['mummy'],,black,False,False,https://pokeapi.co/api/v2/evolution-chain/287/
+563,cofagrigus,Ghost,,17,765,cofagrigus,['mummy'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/287/
+564,tirtouga,Water,Rock,7,165,tirtouga,"['solid-rock', 'sturdy', 'swift-swim']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/288/
+565,carracosta,Water,Rock,12,810,carracosta,"['solid-rock', 'sturdy', 'swift-swim']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/288/
+566,archen,Rock,Flying,5,95,archen,['defeatist'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/289/
+567,archeops,Rock,Flying,14,320,archeops,['defeatist'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/289/
+568,trubbish,Poison,,6,310,trubbish,"['stench', 'sticky-hold', 'aftermath']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/290/
+569,garbodor,Poison,,19,1073,garbodor,"['stench', 'weak-armor', 'aftermath']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/290/
+570,zorua,Dark,,7,125,zorua,['illusion'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/291/
+571,zoroark,Dark,,16,811,zoroark,['illusion'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/291/
+572,minccino,Normal,,4,58,minccino,"['cute-charm', 'technician', 'skill-link']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/292/
+573,cinccino,Normal,,5,75,cinccino,"['cute-charm', 'technician', 'skill-link']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/292/
+574,gothita,Psychic,,4,58,gothita,"['frisk', 'competitive', 'shadow-tag']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/293/
+575,gothorita,Psychic,,7,180,gothorita,"['frisk', 'competitive', 'shadow-tag']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/293/
+576,gothitelle,Psychic,,15,440,gothitelle,"['frisk', 'competitive', 'shadow-tag']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/293/
+577,solosis,Psychic,,3,10,solosis,"['overcoat', 'magic-guard', 'regenerator']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/294/
+578,duosion,Psychic,,6,80,duosion,"['overcoat', 'magic-guard', 'regenerator']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/294/
+579,reuniclus,Psychic,,10,201,reuniclus,"['overcoat', 'magic-guard', 'regenerator']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/294/
+580,ducklett,Water,Flying,5,55,ducklett,"['keen-eye', 'big-pecks', 'hydration']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/295/
+581,swanna,Water,Flying,13,242,swanna,"['keen-eye', 'big-pecks', 'hydration']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/295/
+582,vanillite,Ice,,4,57,vanillite,"['ice-body', 'snow-cloak', 'weak-armor']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/296/
+583,vanillish,Ice,,11,410,vanillish,"['ice-body', 'snow-cloak', 'weak-armor']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/296/
+584,vanilluxe,Ice,,13,575,vanilluxe,"['ice-body', 'snow-warning', 'weak-armor']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/296/
+585,deerling,Normal,Grass,6,195,deerling,"['chlorophyll', 'sap-sipper', 'serene-grace']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/297/
+586,sawsbuck,Normal,Grass,19,925,sawsbuck,"['chlorophyll', 'sap-sipper', 'serene-grace']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/297/
+587,emolga,Electric,Flying,4,50,emolga,"['static', 'motor-drive']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/298/
+588,karrablast,Bug,,5,59,karrablast,"['swarm', 'shed-skin', 'no-guard']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/299/
+589,escavalier,Bug,Steel,10,330,escavalier,"['swarm', 'shell-armor', 'overcoat']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/299/
+590,foongus,Grass,Poison,2,10,foongus,"['effect-spore', 'regenerator']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/300/
+591,amoonguss,Grass,Poison,6,105,amoonguss,"['effect-spore', 'regenerator']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/300/
+592,frillish,Water,Ghost,12,330,frillish,"['water-absorb', 'cursed-body', 'damp']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/301/
+593,jellicent,Water,Ghost,22,1350,jellicent,"['water-absorb', 'cursed-body', 'damp']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/301/
+594,alomomola,Water,,12,316,alomomola,"['healer', 'hydration', 'regenerator']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/302/
+595,joltik,Bug,Electric,1,6,joltik,"['compound-eyes', 'unnerve', 'swarm']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/303/
+596,galvantula,Bug,Electric,8,143,galvantula,"['compound-eyes', 'unnerve', 'swarm']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/303/
+597,ferroseed,Grass,Steel,6,188,ferroseed,['iron-barbs'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/304/
+598,ferrothorn,Grass,Steel,10,1100,ferrothorn,"['iron-barbs', 'anticipation']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/304/
+599,klink,Steel,,3,210,klink,"['plus', 'minus', 'clear-body']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/305/
+600,klang,Steel,,6,510,klang,"['plus', 'minus', 'clear-body']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/305/
+601,klinklang,Steel,,6,810,klinklang,"['plus', 'minus', 'clear-body']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/305/
+602,tynamo,Electric,,2,3,tynamo,['levitate'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/306/
+603,eelektrik,Electric,,12,220,eelektrik,['levitate'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/306/
+604,eelektross,Electric,,21,805,eelektross,['levitate'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/306/
+605,elgyem,Psychic,,5,90,elgyem,"['telepathy', 'synchronize', 'analytic']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/307/
+606,beheeyem,Psychic,,10,345,beheeyem,"['telepathy', 'synchronize', 'analytic']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/307/
+607,litwick,Ghost,Fire,3,31,litwick,"['flash-fire', 'flame-body', 'infiltrator']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/308/
+608,lampent,Ghost,Fire,6,130,lampent,"['flash-fire', 'flame-body', 'infiltrator']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/308/
+609,chandelure,Ghost,Fire,10,343,chandelure,"['flash-fire', 'flame-body', 'infiltrator']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/308/
+610,axew,Dragon,,6,180,axew,"['rivalry', 'mold-breaker', 'unnerve']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/309/
+611,fraxure,Dragon,,10,360,fraxure,"['rivalry', 'mold-breaker', 'unnerve']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/309/
+612,haxorus,Dragon,,18,1055,haxorus,"['rivalry', 'mold-breaker', 'unnerve']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/309/
+613,cubchoo,Ice,,5,85,cubchoo,"['snow-cloak', 'slush-rush', 'rattled']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/310/
+614,beartic,Ice,,26,2600,beartic,"['snow-cloak', 'slush-rush', 'swift-swim']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/310/
+615,cryogonal,Ice,,11,1480,cryogonal,['levitate'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/311/
+616,shelmet,Bug,,4,77,shelmet,"['hydration', 'shell-armor', 'overcoat']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/312/
+617,accelgor,Bug,,8,253,accelgor,"['hydration', 'sticky-hold', 'unburden']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/312/
+618,stunfisk,Ground,Electric,7,110,stunfisk,"['static', 'limber', 'sand-veil']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/313/
+619,mienfoo,Fighting,,9,200,mienfoo,"['inner-focus', 'regenerator', 'reckless']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/314/
+620,mienshao,Fighting,,14,355,mienshao,"['inner-focus', 'regenerator', 'reckless']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/314/
+621,druddigon,Dragon,,16,1390,druddigon,"['rough-skin', 'sheer-force', 'mold-breaker']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/315/
+622,golett,Ground,Ghost,10,920,golett,"['iron-fist', 'klutz', 'no-guard']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/316/
+623,golurk,Ground,Ghost,28,3300,golurk,"['iron-fist', 'klutz', 'no-guard']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/316/
+624,pawniard,Dark,Steel,5,102,pawniard,"['defiant', 'inner-focus', 'pressure']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/317/
+625,bisharp,Dark,Steel,16,700,bisharp,"['defiant', 'inner-focus', 'pressure']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/317/
+626,bouffalant,Normal,,16,946,bouffalant,"['reckless', 'sap-sipper', 'soundproof']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/318/
+627,rufflet,Normal,Flying,5,105,rufflet,"['keen-eye', 'sheer-force', 'hustle']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/319/
+628,braviary,Normal,Flying,15,410,braviary,"['keen-eye', 'sheer-force', 'defiant']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/319/
+629,vullaby,Dark,Flying,5,90,vullaby,"['big-pecks', 'overcoat', 'weak-armor']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/320/
+630,mandibuzz,Dark,Flying,12,395,mandibuzz,"['big-pecks', 'overcoat', 'weak-armor']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/320/
+631,heatmor,Fire,,14,580,heatmor,"['gluttony', 'flash-fire', 'white-smoke']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/321/
+632,durant,Bug,Steel,3,330,durant,"['swarm', 'hustle', 'truant']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/322/
+633,deino,Dark,Dragon,8,173,deino,['hustle'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/323/
+634,zweilous,Dark,Dragon,14,500,zweilous,['hustle'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/323/
+635,hydreigon,Dark,Dragon,18,1600,hydreigon,['levitate'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/323/
+636,larvesta,Bug,Fire,11,288,larvesta,"['flame-body', 'swarm']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/324/
+637,volcarona,Bug,Fire,16,460,volcarona,"['flame-body', 'swarm']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/324/
+638,cobalion,Steel,Fighting,21,2500,cobalion,['justified'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/325/
+639,terrakion,Rock,Fighting,19,2600,terrakion,['justified'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/326/
+640,virizion,Grass,Fighting,20,2000,virizion,['justified'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/327/
+641,tornadus-incarnate,Flying,,15,630,tornadus,"['prankster', 'defiant']",,green,True,False,https://pokeapi.co/api/v2/evolution-chain/328/
+642,thundurus-incarnate,Electric,Flying,15,610,thundurus,"['prankster', 'defiant']",,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/329/
+643,reshiram,Dragon,Fire,32,3300,reshiram,['turboblaze'],,white,True,False,https://pokeapi.co/api/v2/evolution-chain/330/
+644,zekrom,Dragon,Electric,29,3450,zekrom,['teravolt'],,black,True,False,https://pokeapi.co/api/v2/evolution-chain/331/
+645,landorus-incarnate,Ground,Flying,15,680,landorus,"['sand-force', 'sheer-force']",,brown,True,False,https://pokeapi.co/api/v2/evolution-chain/332/
+646,kyurem,Dragon,Ice,30,3250,kyurem,['pressure'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/333/
+647,keldeo-ordinary,Water,Fighting,14,485,keldeo,['justified'],,yellow,False,True,https://pokeapi.co/api/v2/evolution-chain/334/
+648,meloetta-aria,Normal,Psychic,6,65,meloetta,['serene-grace'],,white,False,True,https://pokeapi.co/api/v2/evolution-chain/335/
+649,genesect,Bug,Steel,15,825,genesect,['download'],,purple,False,True,https://pokeapi.co/api/v2/evolution-chain/336/
+650,chespin,Grass,,4,90,chespin,"['overgrow', 'bulletproof']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/337/
+651,quilladin,Grass,,7,290,quilladin,"['overgrow', 'bulletproof']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/337/
+652,chesnaught,Grass,Fighting,16,900,chesnaught,"['overgrow', 'bulletproof']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/337/
+653,fennekin,Fire,,4,94,fennekin,"['blaze', 'magician']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/338/
+654,braixen,Fire,,10,145,braixen,"['blaze', 'magician']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/338/
+655,delphox,Fire,Psychic,15,390,delphox,"['blaze', 'magician']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/338/
+656,froakie,Water,,3,70,froakie,"['torrent', 'protean']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/339/
+657,frogadier,Water,,6,109,frogadier,"['torrent', 'protean']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/339/
+658,greninja,Water,Dark,15,400,greninja,"['torrent', 'protean']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/339/
+659,bunnelby,Normal,,4,50,bunnelby,"['pickup', 'cheek-pouch', 'huge-power']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/340/
+660,diggersby,Normal,Ground,10,424,diggersby,"['pickup', 'cheek-pouch', 'huge-power']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/340/
+661,fletchling,Normal,Flying,3,17,fletchling,"['big-pecks', 'gale-wings']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/341/
+662,fletchinder,Fire,Flying,7,160,fletchinder,"['flame-body', 'gale-wings']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/341/
+663,talonflame,Fire,Flying,12,245,talonflame,"['flame-body', 'gale-wings']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/341/
+664,scatterbug,Bug,,3,25,scatterbug,"['shield-dust', 'compound-eyes', 'friend-guard']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/342/
+665,spewpa,Bug,,3,84,spewpa,"['shed-skin', 'friend-guard']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/342/
+666,vivillon,Bug,Flying,12,170,vivillon,"['shield-dust', 'compound-eyes', 'friend-guard']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/342/
+667,litleo,Fire,Normal,6,135,litleo,"['rivalry', 'unnerve', 'moxie']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/343/
+668,pyroar,Fire,Normal,15,815,pyroar,"['rivalry', 'unnerve', 'moxie']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/343/
+669,flabebe,Fairy,,1,1,flabebe,"['flower-veil', 'symbiosis']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/344/
+670,floette,Fairy,,2,9,floette,"['flower-veil', 'symbiosis']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/344/
+671,florges,Fairy,,11,100,florges,"['flower-veil', 'symbiosis']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/344/
+672,skiddo,Grass,,9,310,skiddo,"['sap-sipper', 'grass-pelt']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/345/
+673,gogoat,Grass,,17,910,gogoat,"['sap-sipper', 'grass-pelt']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/345/
+674,pancham,Fighting,,6,80,pancham,"['iron-fist', 'mold-breaker', 'scrappy']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/346/
+675,pangoro,Fighting,Dark,21,1360,pangoro,"['iron-fist', 'mold-breaker', 'scrappy']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/346/
+676,furfrou,Normal,,12,280,furfrou,['fur-coat'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/347/
+677,espurr,Psychic,,3,35,espurr,"['keen-eye', 'infiltrator', 'own-tempo']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/348/
+678,meowstic-male,Psychic,,6,85,meowstic,"['keen-eye', 'infiltrator', 'prankster']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/348/
+679,honedge,Steel,Ghost,8,20,honedge,['no-guard'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/349/
+680,doublade,Steel,Ghost,8,45,doublade,['no-guard'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/349/
+681,aegislash-shield,Steel,Ghost,17,530,aegislash,['stance-change'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/349/
+682,spritzee,Fairy,,2,5,spritzee,"['healer', 'aroma-veil']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/350/
+683,aromatisse,Fairy,,8,155,aromatisse,"['healer', 'aroma-veil']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/350/
+684,swirlix,Fairy,,4,35,swirlix,"['sweet-veil', 'unburden']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/351/
+685,slurpuff,Fairy,,8,50,slurpuff,"['sweet-veil', 'unburden']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/351/
+686,inkay,Dark,Psychic,4,35,inkay,"['contrary', 'suction-cups', 'infiltrator']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/352/
+687,malamar,Dark,Psychic,15,470,malamar,"['contrary', 'suction-cups', 'infiltrator']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/352/
+688,binacle,Rock,Water,5,310,binacle,"['tough-claws', 'sniper', 'pickpocket']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/353/
+689,barbaracle,Rock,Water,13,960,barbaracle,"['tough-claws', 'sniper', 'pickpocket']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/353/
+690,skrelp,Poison,Water,5,73,skrelp,"['poison-point', 'poison-touch', 'adaptability']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/354/
+691,dragalge,Poison,Dragon,18,815,dragalge,"['poison-point', 'poison-touch', 'adaptability']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/354/
+692,clauncher,Water,,5,83,clauncher,['mega-launcher'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/355/
+693,clawitzer,Water,,13,353,clawitzer,['mega-launcher'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/355/
+694,helioptile,Electric,Normal,5,60,helioptile,"['dry-skin', 'sand-veil', 'solar-power']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/356/
+695,heliolisk,Electric,Normal,10,210,heliolisk,"['dry-skin', 'sand-veil', 'solar-power']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/356/
+696,tyrunt,Rock,Dragon,8,260,tyrunt,"['strong-jaw', 'sturdy']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/357/
+697,tyrantrum,Rock,Dragon,25,2700,tyrantrum,"['strong-jaw', 'rock-head']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/357/
+698,amaura,Rock,Ice,13,252,amaura,"['refrigerate', 'snow-warning']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/358/
+699,aurorus,Rock,Ice,27,2250,aurorus,"['refrigerate', 'snow-warning']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/358/
+700,sylveon,Fairy,,10,235,sylveon,"['cute-charm', 'pixilate']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+701,hawlucha,Fighting,Flying,8,215,hawlucha,"['limber', 'unburden', 'mold-breaker']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/359/
+702,dedenne,Electric,Fairy,2,22,dedenne,"['cheek-pouch', 'pickup', 'plus']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/360/
+703,carbink,Rock,Fairy,3,57,carbink,"['clear-body', 'sturdy']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/361/
+704,goomy,Dragon,,3,28,goomy,"['sap-sipper', 'hydration', 'gooey']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/362/
+705,sliggoo,Dragon,,8,175,sliggoo,"['sap-sipper', 'hydration', 'gooey']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/362/
+706,goodra,Dragon,,20,1505,goodra,"['sap-sipper', 'hydration', 'gooey']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/362/
+707,klefki,Steel,Fairy,2,30,klefki,"['prankster', 'magician']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/363/
+708,phantump,Ghost,Grass,4,70,phantump,"['natural-cure', 'frisk', 'harvest']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/364/
+709,trevenant,Ghost,Grass,15,710,trevenant,"['natural-cure', 'frisk', 'harvest']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/364/
+710,pumpkaboo-average,Ghost,Grass,4,50,pumpkaboo,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+711,gourgeist-average,Ghost,Grass,9,125,gourgeist,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+712,bergmite,Ice,,10,995,bergmite,"['own-tempo', 'ice-body', 'sturdy']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/366/
+713,avalugg,Ice,,20,5050,avalugg,"['own-tempo', 'ice-body', 'sturdy']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/366/
+714,noibat,Flying,Dragon,5,80,noibat,"['frisk', 'infiltrator', 'telepathy']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/367/
+715,noivern,Flying,Dragon,15,850,noivern,"['frisk', 'infiltrator', 'telepathy']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/367/
+716,xerneas,Fairy,,30,2150,xerneas,['fairy-aura'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/368/
+717,yveltal,Dark,Flying,58,2030,yveltal,['dark-aura'],,red,True,False,https://pokeapi.co/api/v2/evolution-chain/369/
+718,zygarde-50,Dragon,Ground,50,3050,zygarde,['aura-break'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/370/
+719,diancie,Rock,Fairy,7,88,diancie,['clear-body'],,pink,False,True,https://pokeapi.co/api/v2/evolution-chain/371/
+720,hoopa,Psychic,Ghost,5,90,hoopa,['magician'],,purple,False,True,https://pokeapi.co/api/v2/evolution-chain/372/
+721,volcanion,Fire,Water,17,1950,volcanion,['water-absorb'],,brown,False,True,https://pokeapi.co/api/v2/evolution-chain/373/
+722,rowlet,Grass,Flying,3,15,rowlet,"['overgrow', 'long-reach']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/374/
+723,dartrix,Grass,Flying,7,160,dartrix,"['overgrow', 'long-reach']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/374/
+724,decidueye,Grass,Ghost,16,366,decidueye,"['overgrow', 'long-reach']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/374/
+725,litten,Fire,,4,43,litten,"['blaze', 'intimidate']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/375/
+726,torracat,Fire,,7,250,torracat,"['blaze', 'intimidate']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/375/
+727,incineroar,Fire,Dark,18,830,incineroar,"['blaze', 'intimidate']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/375/
+728,popplio,Water,,4,75,popplio,"['torrent', 'liquid-voice']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/376/
+729,brionne,Water,,6,175,brionne,"['torrent', 'liquid-voice']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/376/
+730,primarina,Water,Fairy,18,440,primarina,"['torrent', 'liquid-voice']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/376/
+731,pikipek,Normal,Flying,3,12,pikipek,"['keen-eye', 'skill-link', 'pickup']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/377/
+732,trumbeak,Normal,Flying,6,148,trumbeak,"['keen-eye', 'skill-link', 'pickup']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/377/
+733,toucannon,Normal,Flying,11,260,toucannon,"['keen-eye', 'skill-link', 'sheer-force']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/377/
+734,yungoos,Normal,,4,60,yungoos,"['stakeout', 'strong-jaw', 'adaptability']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/378/
+735,gumshoos,Normal,,7,142,gumshoos,"['stakeout', 'strong-jaw', 'adaptability']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/378/
+736,grubbin,Bug,,4,44,grubbin,['swarm'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/379/
+737,charjabug,Bug,Electric,5,105,charjabug,['battery'],,green,False,False,https://pokeapi.co/api/v2/evolution-chain/379/
+738,vikavolt,Bug,Electric,15,450,vikavolt,['levitate'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/379/
+739,crabrawler,Fighting,,6,70,crabrawler,"['hyper-cutter', 'iron-fist', 'anger-point']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/380/
+740,crabominable,Fighting,Ice,17,1800,crabominable,"['hyper-cutter', 'iron-fist', 'anger-point']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/380/
+741,oricorio-baile,Fire,Flying,6,34,oricorio,['dancer'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/381/
+742,cutiefly,Bug,Fairy,1,2,cutiefly,"['honey-gather', 'shield-dust', 'sweet-veil']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/382/
+743,ribombee,Bug,Fairy,2,5,ribombee,"['honey-gather', 'shield-dust', 'sweet-veil']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/382/
+744,rockruff,Rock,,5,92,rockruff,"['keen-eye', 'vital-spirit', 'steadfast']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/383/
+745,lycanroc-midday,Rock,,8,250,lycanroc,"['keen-eye', 'sand-rush', 'steadfast']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/383/
+746,wishiwashi-solo,Water,,2,3,wishiwashi,['schooling'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/384/
+747,mareanie,Poison,Water,4,80,mareanie,"['merciless', 'limber', 'regenerator']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/385/
+748,toxapex,Poison,Water,7,145,toxapex,"['merciless', 'limber', 'regenerator']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/385/
+749,mudbray,Ground,,10,1100,mudbray,"['own-tempo', 'stamina', 'inner-focus']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/386/
+750,mudsdale,Ground,,25,9200,mudsdale,"['own-tempo', 'stamina', 'inner-focus']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/386/
+751,dewpider,Water,Bug,3,40,dewpider,"['water-bubble', 'water-absorb']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/387/
+752,araquanid,Water,Bug,18,820,araquanid,"['water-bubble', 'water-absorb']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/387/
+753,fomantis,Grass,,3,15,fomantis,"['leaf-guard', 'contrary']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/388/
+754,lurantis,Grass,,9,185,lurantis,"['leaf-guard', 'contrary']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/388/
+755,morelull,Grass,Fairy,2,15,morelull,"['illuminate', 'effect-spore', 'rain-dish']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/389/
+756,shiinotic,Grass,Fairy,10,115,shiinotic,"['illuminate', 'effect-spore', 'rain-dish']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/389/
+757,salandit,Poison,Fire,6,48,salandit,"['corrosion', 'oblivious']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/390/
+758,salazzle,Poison,Fire,12,222,salazzle,"['corrosion', 'oblivious']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/390/
+759,stufful,Normal,Fighting,5,68,stufful,"['fluffy', 'klutz', 'cute-charm']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/391/
+760,bewear,Normal,Fighting,21,1350,bewear,"['fluffy', 'klutz', 'unnerve']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/391/
+761,bounsweet,Grass,,3,32,bounsweet,"['leaf-guard', 'oblivious', 'sweet-veil']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/392/
+762,steenee,Grass,,7,82,steenee,"['leaf-guard', 'oblivious', 'sweet-veil']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/392/
+763,tsareena,Grass,,12,214,tsareena,"['leaf-guard', 'queenly-majesty', 'sweet-veil']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/392/
+764,comfey,Fairy,,1,3,comfey,"['flower-veil', 'triage', 'natural-cure']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/393/
+765,oranguru,Normal,Psychic,15,760,oranguru,"['inner-focus', 'telepathy', 'symbiosis']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/394/
+766,passimian,Fighting,,20,828,passimian,"['receiver', 'defiant']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/395/
+767,wimpod,Bug,Water,5,120,wimpod,['wimp-out'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/396/
+768,golisopod,Bug,Water,20,1080,golisopod,['emergency-exit'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/396/
+769,sandygast,Ghost,Ground,5,700,sandygast,"['water-compaction', 'sand-veil']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/397/
+770,palossand,Ghost,Ground,13,2500,palossand,"['water-compaction', 'sand-veil']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/397/
+771,pyukumuku,Water,,3,12,pyukumuku,"['innards-out', 'unaware']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/398/
+772,type-null,Normal,,19,1205,type-null,['battle-armor'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/399/
+773,silvally,Normal,,23,1005,silvally,['rks-system'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/399/
+774,minior-red-meteor,Rock,Flying,3,400,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+775,komala,Normal,,4,199,komala,['comatose'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/401/
+776,turtonator,Fire,Dragon,20,2120,turtonator,['shell-armor'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/402/
+777,togedemaru,Electric,Steel,3,33,togedemaru,"['iron-barbs', 'lightning-rod', 'sturdy']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/403/
+778,mimikyu-disguised,Ghost,Fairy,2,7,mimikyu,['disguise'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/404/
+779,bruxish,Water,Psychic,9,190,bruxish,"['dazzling', 'strong-jaw', 'wonder-skin']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/405/
+780,drampa,Normal,Dragon,30,1850,drampa,"['berserk', 'sap-sipper', 'cloud-nine']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/406/
+781,dhelmise,Ghost,Grass,39,2100,dhelmise,['steelworker'],,green,False,False,https://pokeapi.co/api/v2/evolution-chain/407/
+782,jangmo-o,Dragon,,6,297,jangmo-o,"['bulletproof', 'soundproof', 'overcoat']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/408/
+783,hakamo-o,Dragon,Fighting,12,470,hakamo-o,"['bulletproof', 'soundproof', 'overcoat']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/408/
+784,kommo-o,Dragon,Fighting,16,782,kommo-o,"['bulletproof', 'soundproof', 'overcoat']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/408/
+785,tapu-koko,Electric,Fairy,18,205,tapu-koko,"['electric-surge', 'telepathy']",,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/409/
+786,tapu-lele,Psychic,Fairy,12,186,tapu-lele,"['psychic-surge', 'telepathy']",,pink,True,False,https://pokeapi.co/api/v2/evolution-chain/410/
+787,tapu-bulu,Grass,Fairy,19,455,tapu-bulu,"['grassy-surge', 'telepathy']",,red,True,False,https://pokeapi.co/api/v2/evolution-chain/411/
+788,tapu-fini,Water,Fairy,13,212,tapu-fini,"['misty-surge', 'telepathy']",,purple,True,False,https://pokeapi.co/api/v2/evolution-chain/412/
+789,cosmog,Psychic,,2,1,cosmog,['unaware'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/413/
+790,cosmoem,Psychic,,1,9999,cosmoem,['sturdy'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/413/
+791,solgaleo,Psychic,Steel,34,2300,solgaleo,['full-metal-body'],,white,True,False,https://pokeapi.co/api/v2/evolution-chain/413/
+792,lunala,Psychic,Ghost,40,1200,lunala,['shadow-shield'],,purple,True,False,https://pokeapi.co/api/v2/evolution-chain/413/
+793,nihilego,Rock,Poison,12,555,nihilego,['beast-boost'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/414/
+794,buzzwole,Bug,Fighting,24,3336,buzzwole,['beast-boost'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/415/
+795,pheromosa,Bug,Fighting,18,250,pheromosa,['beast-boost'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/416/
+796,xurkitree,Electric,,38,1000,xurkitree,['beast-boost'],,black,False,False,https://pokeapi.co/api/v2/evolution-chain/417/
+797,celesteela,Steel,Flying,92,9999,celesteela,['beast-boost'],,green,False,False,https://pokeapi.co/api/v2/evolution-chain/418/
+798,kartana,Grass,Steel,3,1,kartana,['beast-boost'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/419/
+799,guzzlord,Dark,Dragon,55,8880,guzzlord,['beast-boost'],,black,False,False,https://pokeapi.co/api/v2/evolution-chain/420/
+800,necrozma,Psychic,,24,2300,necrozma,['prism-armor'],,black,True,False,https://pokeapi.co/api/v2/evolution-chain/421/
+801,magearna,Steel,Fairy,10,805,magearna,['soul-heart'],,gray,False,True,https://pokeapi.co/api/v2/evolution-chain/422/
+802,marshadow,Fighting,Ghost,7,222,marshadow,['technician'],,gray,False,True,https://pokeapi.co/api/v2/evolution-chain/423/
+803,poipole,Poison,,6,18,poipole,['beast-boost'],,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/424/
+804,naganadel,Poison,Dragon,36,1500,naganadel,['beast-boost'],,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/424/
+805,stakataka,Rock,Steel,55,8200,stakataka,['beast-boost'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/425/
+806,blacephalon,Fire,Ghost,18,130,blacephalon,['beast-boost'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/426/
+807,zeraora,Electric,,15,445,zeraora,['volt-absorb'],,yellow,False,True,https://pokeapi.co/api/v2/evolution-chain/427/
+808,meltan,Steel,,2,80,meltan,['magnet-pull'],,gray,False,True,https://pokeapi.co/api/v2/evolution-chain/428/
+809,melmetal,Steel,,25,8000,melmetal,['iron-fist'],,gray,False,True,https://pokeapi.co/api/v2/evolution-chain/429/
+810,grookey,Grass,,3,50,grookey,"['overgrow', 'grassy-surge']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/430/
+811,thwackey,Grass,,7,140,thwackey,"['overgrow', 'grassy-surge']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/430/
+812,rillaboom,Grass,,21,900,rillaboom,"['overgrow', 'grassy-surge']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/430/
+813,scorbunny,Fire,,3,45,scorbunny,"['blaze', 'libero']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/431/
+814,raboot,Fire,,6,90,raboot,"['blaze', 'libero']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/431/
+815,cinderace,Fire,,14,330,cinderace,"['blaze', 'libero']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/431/
+816,sobble,Water,,3,40,sobble,"['torrent', 'sniper']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/432/
+817,drizzile,Water,,7,115,drizzile,"['torrent', 'sniper']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/432/
+818,inteleon,Water,,19,452,inteleon,"['torrent', 'sniper']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/432/
+819,skwovet,Normal,,3,25,skwovet,"['cheek-pouch', 'gluttony']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/433/
+820,greedent,Normal,,6,60,greedent,"['cheek-pouch', 'gluttony']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/433/
+821,rookidee,Flying,,2,18,rookidee,"['keen-eye', 'unnerve', 'big-pecks']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/434/
+822,corvisquire,Flying,,8,160,corvisquire,"['keen-eye', 'unnerve', 'big-pecks']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/434/
+823,corviknight,Flying,Steel,22,750,corviknight,"['pressure', 'unnerve', 'mirror-armor']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/434/
+824,blipbug,Bug,,4,80,blipbug,"['swarm', 'compound-eyes', 'telepathy']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/435/
+825,dottler,Bug,Psychic,4,195,dottler,"['swarm', 'compound-eyes', 'telepathy']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/435/
+826,orbeetle,Bug,Psychic,4,408,orbeetle,"['swarm', 'frisk', 'telepathy']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/435/
+827,nickit,Dark,,6,89,nickit,"['run-away', 'unburden', 'stakeout']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/436/
+828,thievul,Dark,,12,199,thievul,"['run-away', 'unburden', 'stakeout']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/436/
+829,gossifleur,Grass,,4,22,gossifleur,"['cotton-down', 'regenerator', 'effect-spore']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/437/
+830,eldegoss,Grass,,5,25,eldegoss,"['cotton-down', 'regenerator', 'effect-spore']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/437/
+831,wooloo,Normal,,6,60,wooloo,"['fluffy', 'run-away', 'bulletproof']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/438/
+832,dubwool,Normal,,13,430,dubwool,"['fluffy', 'steadfast', 'bulletproof']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/438/
+833,chewtle,Water,,3,85,chewtle,"['strong-jaw', 'shell-armor', 'swift-swim']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/439/
+834,drednaw,Water,Rock,10,1155,drednaw,"['strong-jaw', 'shell-armor', 'swift-swim']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/439/
+835,yamper,Electric,,3,135,yamper,"['ball-fetch', 'rattled']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/440/
+836,boltund,Electric,,10,340,boltund,"['strong-jaw', 'competitive']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/440/
+837,rolycoly,Rock,,3,120,rolycoly,"['steam-engine', 'heatproof', 'flash-fire']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/441/
+838,carkol,Rock,Fire,11,780,carkol,"['steam-engine', 'flame-body', 'flash-fire']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/441/
+839,coalossal,Rock,Fire,28,3105,coalossal,"['steam-engine', 'flame-body', 'flash-fire']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/441/
+840,applin,Grass,Dragon,2,5,applin,"['ripen', 'gluttony', 'bulletproof']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/442/
+841,flapple,Grass,Dragon,3,10,flapple,"['ripen', 'gluttony', 'hustle']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/442/
+842,appletun,Grass,Dragon,4,130,appletun,"['ripen', 'gluttony', 'thick-fat']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/442/
+843,silicobra,Ground,,22,76,silicobra,"['sand-spit', 'shed-skin', 'sand-veil']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/443/
+844,sandaconda,Ground,,38,655,sandaconda,"['sand-spit', 'shed-skin', 'sand-veil']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/443/
+845,cramorant,Flying,Water,8,180,cramorant,['gulp-missile'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/444/
+846,arrokuda,Water,,5,10,arrokuda,"['swift-swim', 'propeller-tail']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/445/
+847,barraskewda,Water,,13,300,barraskewda,"['swift-swim', 'propeller-tail']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/445/
+848,toxel,Electric,Poison,4,110,toxel,"['rattled', 'static', 'klutz']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/446/
+849,toxtricity-amped,Electric,Poison,16,400,toxtricity,"['punk-rock', 'plus', 'technician']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/446/
+850,sizzlipede,Fire,Bug,7,10,sizzlipede,"['flash-fire', 'white-smoke', 'flame-body']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/447/
+851,centiskorch,Fire,Bug,30,1200,centiskorch,"['flash-fire', 'white-smoke', 'flame-body']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/447/
+852,clobbopus,Fighting,,6,40,clobbopus,"['limber', 'technician']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/448/
+853,grapploct,Fighting,,16,390,grapploct,"['limber', 'technician']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/448/
+854,sinistea,Ghost,,1,2,sinistea,"['weak-armor', 'cursed-body']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/449/
+855,polteageist,Ghost,,2,4,polteageist,"['weak-armor', 'cursed-body']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/449/
+856,hatenna,Psychic,,4,34,hatenna,"['healer', 'anticipation', 'magic-bounce']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/450/
+857,hattrem,Psychic,,6,48,hattrem,"['healer', 'anticipation', 'magic-bounce']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/450/
+858,hatterene,Psychic,Fairy,21,51,hatterene,"['healer', 'anticipation', 'magic-bounce']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/450/
+859,impidimp,Dark,Fairy,4,55,impidimp,"['prankster', 'frisk', 'pickpocket']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/451/
+860,morgrem,Dark,Fairy,8,125,morgrem,"['prankster', 'frisk', 'pickpocket']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/451/
+861,grimmsnarl,Dark,Fairy,15,610,grimmsnarl,"['prankster', 'frisk', 'pickpocket']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/451/
+862,obstagoon,Dark,Normal,16,460,obstagoon,"['reckless', 'guts', 'defiant']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/134/
+863,perrserker,Steel,,8,280,perrserker,"['battle-armor', 'tough-claws', 'steely-spirit']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/22/
+864,cursola,Ghost,,10,4,cursola,"['weak-armor', 'perish-body']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/113/
+865,sirfetchd,Fighting,,8,1170,sirfetchd,"['steadfast', 'scrappy']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/35/
+866,mr-rime,Ice,Psychic,15,582,mr-rime,"['tangled-feet', 'screen-cleaner', 'ice-body']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/57/
+867,runerigus,Ground,Ghost,16,666,runerigus,['wandering-spirit'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/287/
+868,milcery,Fairy,,2,3,milcery,"['sweet-veil', 'aroma-veil']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/452/
+869,alcremie,Fairy,,3,5,alcremie,"['sweet-veil', 'aroma-veil']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/452/
+870,falinks,Fighting,,30,620,falinks,"['battle-armor', 'defiant']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/453/
+871,pincurchin,Electric,,3,10,pincurchin,"['lightning-rod', 'electric-surge']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/454/
+872,snom,Ice,Bug,3,38,snom,"['shield-dust', 'ice-scales']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/455/
+873,frosmoth,Ice,Bug,13,420,frosmoth,"['shield-dust', 'ice-scales']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/455/
+874,stonjourner,Rock,,25,5200,stonjourner,['power-spot'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/456/
+875,eiscue-ice,Ice,,14,890,eiscue,['ice-face'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/457/
+876,indeedee-male,Psychic,Normal,9,280,indeedee,"['inner-focus', 'synchronize', 'psychic-surge']",,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/458/
+877,morpeko-full-belly,Electric,Dark,3,30,morpeko,['hunger-switch'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/459/
+878,cufant,Steel,,12,1000,cufant,"['sheer-force', 'heavy-metal']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/460/
+879,copperajah,Steel,,30,6500,copperajah,"['sheer-force', 'heavy-metal']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/460/
+880,dracozolt,Electric,Dragon,18,1900,dracozolt,"['volt-absorb', 'hustle', 'sand-rush']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/461/
+881,arctozolt,Electric,Ice,23,1500,arctozolt,"['volt-absorb', 'static', 'slush-rush']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/462/
+882,dracovish,Water,Dragon,23,2150,dracovish,"['water-absorb', 'strong-jaw', 'sand-rush']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/463/
+883,arctovish,Water,Ice,20,1750,arctovish,"['water-absorb', 'ice-body', 'slush-rush']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/464/
+884,duraludon,Steel,Dragon,18,400,duraludon,"['light-metal', 'heavy-metal', 'stalwart']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/465/
+885,dreepy,Dragon,Ghost,5,20,dreepy,"['clear-body', 'infiltrator', 'cursed-body']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/466/
+886,drakloak,Dragon,Ghost,14,110,drakloak,"['clear-body', 'infiltrator', 'cursed-body']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/466/
+887,dragapult,Dragon,Ghost,30,500,dragapult,"['clear-body', 'infiltrator', 'cursed-body']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/466/
+888,zacian,Fairy,,28,1100,zacian,['intrepid-sword'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/467/
+889,zamazenta,Fighting,,29,2100,zamazenta,['dauntless-shield'],,red,True,False,https://pokeapi.co/api/v2/evolution-chain/468/
+890,eternatus,Poison,Dragon,200,9500,eternatus,['pressure'],,purple,True,False,https://pokeapi.co/api/v2/evolution-chain/469/
+891,kubfu,Fighting,,6,120,kubfu,['inner-focus'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/470/
+892,urshifu-single-strike,Fighting,Dark,19,1050,urshifu,['unseen-fist'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/470/
+893,zarude,Dark,Grass,18,700,zarude,['leaf-guard'],,green,False,True,https://pokeapi.co/api/v2/evolution-chain/471/
+894,regieleki,Electric,,12,1450,regieleki,['transistor'],,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/472/
+895,regidrago,Dragon,,21,2000,regidrago,['dragons-maw'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/473/
+896,glastrier,Ice,,22,8000,glastrier,['chilling-neigh'],,white,True,False,https://pokeapi.co/api/v2/evolution-chain/474/
+897,spectrier,Ghost,,20,445,spectrier,['grim-neigh'],,black,True,False,https://pokeapi.co/api/v2/evolution-chain/475/
+898,calyrex,Psychic,Grass,11,77,calyrex,['unnerve'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/476/
+899,wyrdeer,Normal,Psychic,18,951,wyrdeer,"['intimidate', 'frisk', 'sap-sipper']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/120/
+900,kleavor,Bug,Rock,18,890,kleavor,"['swarm', 'sheer-force', 'sharpness']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/58/
+901,ursaluna,Ground,Normal,24,2900,ursaluna,"['guts', 'bulletproof', 'unnerve']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/110/
+902,basculegion-male,Water,Ghost,30,1100,basculegion,"['swift-swim', 'adaptability', 'mold-breaker']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/280/
+903,sneasler,Fighting,Poison,13,430,sneasler,"['pressure', 'unburden', 'poison-touch']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/109/
+904,overqwil,Dark,Poison,25,605,overqwil,"['poison-point', 'swift-swim', 'intimidate']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/106/
+905,enamorus-incarnate,Fairy,Flying,16,480,enamorus,"['cute-charm', 'contrary']",,pink,True,False,https://pokeapi.co/api/v2/evolution-chain/477/
+906,sprigatito,Grass,,4,41,sprigatito,"['overgrow', 'protean']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/478/
+907,floragato,Grass,,9,122,floragato,"['overgrow', 'protean']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/478/
+908,meowscarada,Grass,Dark,15,312,meowscarada,"['overgrow', 'protean']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/478/
+909,fuecoco,Fire,,4,98,fuecoco,"['blaze', 'unaware']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/479/
+910,crocalor,Fire,,10,307,crocalor,"['blaze', 'unaware']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/479/
+911,skeledirge,Fire,Ghost,16,3265,skeledirge,"['blaze', 'unaware']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/479/
+912,quaxly,Water,,5,61,quaxly,"['torrent', 'moxie']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/480/
+913,quaxwell,Water,,12,215,quaxwell,"['torrent', 'moxie']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/480/
+914,quaquaval,Water,Fighting,18,619,quaquaval,"['torrent', 'moxie']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/480/
+915,lechonk,Normal,,5,102,lechonk,"['aroma-veil', 'gluttony', 'thick-fat']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/481/
+916,oinkologne-male,Normal,,10,1200,oinkologne,"['lingering-aroma', 'gluttony', 'thick-fat']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/481/
+917,tarountula,Bug,,3,40,tarountula,"['insomnia', 'stakeout']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/482/
+918,spidops,Bug,,10,165,spidops,"['insomnia', 'stakeout']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/482/
+919,nymble,Bug,,2,10,nymble,"['swarm', 'tinted-lens']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/483/
+920,lokix,Bug,Dark,10,175,lokix,"['swarm', 'tinted-lens']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/483/
+921,pawmi,Electric,,3,25,pawmi,"['static', 'natural-cure', 'iron-fist']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/484/
+922,pawmo,Electric,Fighting,4,65,pawmo,"['volt-absorb', 'natural-cure', 'iron-fist']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/484/
+923,pawmot,Electric,Fighting,9,410,pawmot,"['volt-absorb', 'natural-cure', 'iron-fist']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/484/
+924,tandemaus,Normal,,3,18,tandemaus,"['run-away', 'pickup', 'own-tempo']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/485/
+925,maushold-family-of-four,Normal,,3,23,maushold,"['friend-guard', 'cheek-pouch', 'technician']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/485/
+926,fidough,Fairy,,3,109,fidough,"['own-tempo', 'klutz']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/486/
+927,dachsbun,Fairy,,5,149,dachsbun,"['well-baked-body', 'aroma-veil']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/486/
+928,smoliv,Grass,Normal,3,65,smoliv,"['early-bird', 'harvest']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/487/
+929,dolliv,Grass,Normal,6,119,dolliv,"['early-bird', 'harvest']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/487/
+930,arboliva,Grass,Normal,14,482,arboliva,"['seed-sower', 'harvest']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/487/
+931,squawkabilly-green-plumage,Normal,Flying,6,24,squawkabilly,"['intimidate', 'hustle', 'guts']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/488/
+932,nacli,Rock,,4,160,nacli,"['purifying-salt', 'sturdy', 'clear-body']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/489/
+933,naclstack,Rock,,6,1050,naclstack,"['purifying-salt', 'sturdy', 'clear-body']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/489/
+934,garganacl,Rock,,23,2400,garganacl,"['purifying-salt', 'sturdy', 'clear-body']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/489/
+935,charcadet,Fire,,6,105,charcadet,"['flash-fire', 'flame-body']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/490/
+936,armarouge,Fire,Psychic,15,850,armarouge,"['flash-fire', 'weak-armor']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/490/
+937,ceruledge,Fire,Ghost,16,620,ceruledge,"['flash-fire', 'weak-armor']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/490/
+938,tadbulb,Electric,,3,4,tadbulb,"['own-tempo', 'static', 'damp']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/491/
+939,bellibolt,Electric,,12,1130,bellibolt,"['electromorphosis', 'static', 'damp']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/491/
+940,wattrel,Electric,Flying,4,36,wattrel,"['wind-power', 'volt-absorb', 'competitive']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/492/
+941,kilowattrel,Electric,Flying,14,386,kilowattrel,"['wind-power', 'volt-absorb', 'competitive']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/492/
+942,maschiff,Dark,,5,160,maschiff,"['intimidate', 'run-away', 'stakeout']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/493/
+943,mabosstiff,Dark,,11,610,mabosstiff,"['intimidate', 'guard-dog', 'stakeout']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/493/
+944,shroodle,Poison,Normal,2,7,shroodle,"['unburden', 'pickpocket', 'prankster']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/494/
+945,grafaiai,Poison,Normal,7,272,grafaiai,"['unburden', 'poison-touch', 'prankster']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/494/
+946,bramblin,Grass,Ghost,6,6,bramblin,"['wind-rider', 'infiltrator']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/495/
+947,brambleghast,Grass,Ghost,12,60,brambleghast,"['wind-rider', 'infiltrator']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/495/
+948,toedscool,Ground,Grass,9,330,toedscool,"['mycelium-might', 'mycelium-might']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/496/
+949,toedscruel,Ground,Grass,19,580,toedscruel,"['mycelium-might', 'mycelium-might']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/496/
+950,klawf,Rock,,13,790,klawf,"['anger-shell', 'shell-armor', 'regenerator']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/497/
+951,capsakid,Grass,,3,30,capsakid,"['chlorophyll', 'insomnia', 'klutz']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/498/
+952,scovillain,Grass,Fire,9,150,scovillain,"['chlorophyll', 'insomnia', 'moody']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/498/
+953,rellor,Bug,,2,10,rellor,"['compound-eyes', 'shed-skin']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/499/
+954,rabsca,Bug,Psychic,3,35,rabsca,"['synchronize', 'telepathy']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/499/
+955,flittle,Psychic,,2,15,flittle,"['anticipation', 'frisk', 'speed-boost']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/500/
+956,espathra,Psychic,,19,900,espathra,"['opportunist', 'frisk', 'speed-boost']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/500/
+957,tinkatink,Fairy,Steel,4,89,tinkatink,"['mold-breaker', 'own-tempo', 'pickpocket']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/501/
+958,tinkatuff,Fairy,Steel,7,591,tinkatuff,"['mold-breaker', 'own-tempo', 'pickpocket']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/501/
+959,tinkaton,Fairy,Steel,7,1128,tinkaton,"['mold-breaker', 'own-tempo', 'pickpocket']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/501/
+960,wiglett,Water,,12,18,wiglett,"['gooey', 'rattled', 'sand-veil']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/502/
+961,wugtrio,Water,,12,54,wugtrio,"['gooey', 'rattled', 'sand-veil']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/502/
+962,bombirdier,Flying,Dark,15,429,bombirdier,"['big-pecks', 'keen-eye', 'rocky-payload']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/503/
+963,finizen,Water,,13,602,finizen,"['water-veil', 'water-veil']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/504/
+964,palafin-zero,Water,,13,602,palafin,"['zero-to-hero', 'zero-to-hero']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/504/
+965,varoom,Steel,Poison,10,350,varoom,"['overcoat', 'slow-start']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/505/
+966,revavroom,Steel,Poison,18,1200,revavroom,"['overcoat', 'filter']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/505/
+967,cyclizar,Dragon,Normal,16,630,cyclizar,"['shed-skin', 'regenerator']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/506/
+968,orthworm,Steel,,25,3100,orthworm,"['earth-eater', 'sand-veil']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/507/
+969,glimmet,Rock,Poison,7,80,glimmet,"['toxic-debris', 'corrosion']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/508/
+970,glimmora,Rock,Poison,15,450,glimmora,"['toxic-debris', 'corrosion']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/508/
+971,greavard,Ghost,,6,350,greavard,"['pickup', 'fluffy']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/509/
+972,houndstone,Ghost,,20,150,houndstone,"['sand-rush', 'fluffy']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/509/
+973,flamigo,Flying,Fighting,16,370,flamigo,"['scrappy', 'tangled-feet', 'costar']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/510/
+974,cetoddle,Ice,,12,450,cetoddle,"['thick-fat', 'snow-cloak', 'sheer-force']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/511/
+975,cetitan,Ice,,45,7000,cetitan,"['thick-fat', 'slush-rush', 'sheer-force']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/511/
+976,veluza,Water,Psychic,25,900,veluza,"['mold-breaker', 'sharpness']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/512/
+977,dondozo,Water,,120,2200,dondozo,"['unaware', 'oblivious', 'water-veil']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/513/
+978,tatsugiri-curly,Dragon,Water,3,80,tatsugiri,"['commander', 'storm-drain']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/514/
+979,annihilape,Fighting,Ghost,12,560,annihilape,"['vital-spirit', 'inner-focus', 'defiant']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/24/
+980,clodsire,Poison,Ground,18,2230,clodsire,"['poison-point', 'water-absorb', 'unaware']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/96/
+981,farigiraf,Normal,Psychic,32,1600,farigiraf,"['cud-chew', 'armor-tail', 'sap-sipper']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/101/
+982,dudunsparce-two-segment,Normal,,36,392,dudunsparce,"['serene-grace', 'run-away', 'rattled']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/103/
+983,kingambit,Dark,Steel,20,1200,kingambit,"['defiant', 'supreme-overlord', 'pressure']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/317/
+984,great-tusk,Ground,Fighting,22,3200,great-tusk,['protosynthesis'],,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/515/
+985,scream-tail,Fairy,Psychic,12,80,scream-tail,['protosynthesis'],,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/516/
+986,brute-bonnet,Grass,Dark,12,210,brute-bonnet,['protosynthesis'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/517/
+987,flutter-mane,Ghost,Fairy,14,40,flutter-mane,['protosynthesis'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/518/
+988,slither-wing,Bug,Fighting,32,920,slither-wing,['protosynthesis'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/519/
+989,sandy-shocks,Electric,Ground,23,600,sandy-shocks,['protosynthesis'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/520/
+990,iron-treads,Ground,Steel,9,2400,iron-treads,['quark-drive'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/521/
+991,iron-bundle,Ice,Water,6,110,iron-bundle,['quark-drive'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/522/
+992,iron-hands,Fighting,Electric,18,3807,iron-hands,['quark-drive'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/523/
+993,iron-jugulis,Dark,Flying,13,1110,iron-jugulis,['quark-drive'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/524/
+994,iron-moth,Fire,Poison,12,360,iron-moth,['quark-drive'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/525/
+995,iron-thorns,Rock,Electric,16,3030,iron-thorns,['quark-drive'],,green,False,False,https://pokeapi.co/api/v2/evolution-chain/526/
+996,frigibax,Dragon,Ice,5,170,frigibax,"['thermal-exchange', 'ice-body']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/527/
+997,arctibax,Dragon,Ice,8,300,arctibax,"['thermal-exchange', 'ice-body']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/527/
+998,baxcalibur,Dragon,Ice,21,2100,baxcalibur,"['thermal-exchange', 'ice-body']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/527/
+999,gimmighoul,Ghost,,3,50,gimmighoul,['rattled'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/528/
+1000,gholdengo,Steel,Ghost,12,300,gholdengo,['good-as-gold'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/528/
+1001,wo-chien,Dark,Grass,15,742,wo-chien,['tablets-of-ruin'],,brown,True,False,https://pokeapi.co/api/v2/evolution-chain/529/
+1002,chien-pao,Dark,Ice,19,1522,chien-pao,['sword-of-ruin'],,white,True,False,https://pokeapi.co/api/v2/evolution-chain/530/
+1003,ting-lu,Dark,Ground,27,6997,ting-lu,['vessel-of-ruin'],,brown,True,False,https://pokeapi.co/api/v2/evolution-chain/531/
+1004,chi-yu,Dark,Fire,4,49,chi-yu,['beads-of-ruin'],,red,True,False,https://pokeapi.co/api/v2/evolution-chain/532/
+1005,roaring-moon,Dragon,Dark,20,3800,roaring-moon,['protosynthesis'],,green,False,False,https://pokeapi.co/api/v2/evolution-chain/533/
+1006,iron-valiant,Fairy,Fighting,14,350,iron-valiant,['quark-drive'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/534/
+1007,koraidon,Fighting,Dragon,25,3030,koraidon,['orichalcum-pulse'],,red,True,False,https://pokeapi.co/api/v2/evolution-chain/535/
+1008,miraidon,Electric,Dragon,35,2400,miraidon,['hadron-engine'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/536/
+1009,walking-wake,Water,Dragon,35,2800,walking-wake,['protosynthesis'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/537/
+1010,iron-leaves,Grass,Psychic,15,1250,iron-leaves,['quark-drive'],,green,False,False,https://pokeapi.co/api/v2/evolution-chain/538/
+1011,dipplin,Grass,Dragon,4,97,dipplin,"['supersweet-syrup', 'gluttony', 'sticky-hold']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/442/
+1012,poltchageist,Grass,Ghost,1,11,poltchageist,"['hospitality', 'heatproof']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/539/
+1013,sinistcha,Grass,Ghost,2,22,sinistcha,"['hospitality', 'heatproof']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/539/
+1014,okidogi,Poison,Fighting,18,922,okidogi,"['toxic-chain', 'guard-dog']",,black,True,False,https://pokeapi.co/api/v2/evolution-chain/540/
+1015,munkidori,Poison,Psychic,10,122,munkidori,"['toxic-chain', 'frisk']",,black,True,False,https://pokeapi.co/api/v2/evolution-chain/541/
+1016,fezandipiti,Poison,Fairy,14,301,fezandipiti,"['toxic-chain', 'technician']",,black,True,False,https://pokeapi.co/api/v2/evolution-chain/542/
+1017,ogerpon,Grass,,12,398,ogerpon,['defiant'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/543/
+1018,archaludon,Steel,Dragon,20,600,archaludon,"['stamina', 'sturdy', 'stalwart']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/465/
+1019,hydrapple,Grass,Dragon,18,930,hydrapple,"['supersweet-syrup', 'regenerator', 'sticky-hold']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/442/
+1020,gouging-fire,Fire,Dragon,35,5900,gouging-fire,['protosynthesis'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/544/
+1021,raging-bolt,Electric,Dragon,52,4800,raging-bolt,['protosynthesis'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/545/
+1022,iron-boulder,Rock,Psychic,15,1625,iron-boulder,['quark-drive'],,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/547/
+1023,iron-crown,Steel,Psychic,16,1560,iron-crown,['quark-drive'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/546/
+1024,terapagos,Normal,,2,65,terapagos,['tera-shift'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/548/
+1025,pecharunt,Poison,Ghost,3,3,pecharunt,['poison-puppeteer'],,purple,False,True,https://pokeapi.co/api/v2/evolution-chain/549/
+10001,deoxys-attack,Psychic,,17,608,deoxys,['pressure'],rare,red,False,True,https://pokeapi.co/api/v2/evolution-chain/202/
+10002,deoxys-defense,Psychic,,17,608,deoxys,['pressure'],rare,red,False,True,https://pokeapi.co/api/v2/evolution-chain/202/
+10003,deoxys-speed,Psychic,,17,608,deoxys,['pressure'],rare,red,False,True,https://pokeapi.co/api/v2/evolution-chain/202/
+10004,wormadam-sandy,Bug,Ground,5,65,wormadam,"['anticipation', 'overcoat']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/213/
+10005,wormadam-trash,Bug,Steel,5,65,wormadam,"['anticipation', 'overcoat']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/213/
+10006,shaymin-sky,Grass,Flying,4,52,shaymin,['serene-grace'],,green,False,True,https://pokeapi.co/api/v2/evolution-chain/253/
+10007,giratina-origin,Ghost,Dragon,69,6500,giratina,['levitate'],,black,True,False,https://pokeapi.co/api/v2/evolution-chain/248/
+10008,rotom-heat,Electric,Fire,3,3,rotom,['levitate'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/240/
+10009,rotom-wash,Electric,Water,3,3,rotom,['levitate'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/240/
+10010,rotom-frost,Electric,Ice,3,3,rotom,['levitate'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/240/
+10011,rotom-fan,Electric,Flying,3,3,rotom,['levitate'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/240/
+10012,rotom-mow,Electric,Grass,3,3,rotom,['levitate'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/240/
+10013,castform-sunny,Fire,,3,8,castform,['forecast'],grassland,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/179/
+10014,castform-rainy,Water,,3,8,castform,['forecast'],grassland,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/179/
+10015,castform-snowy,Ice,,3,8,castform,['forecast'],grassland,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/179/
+10016,basculin-blue-striped,Water,,10,180,basculin,"['rock-head', 'adaptability', 'mold-breaker']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/280/
+10017,darmanitan-zen,Fire,Psychic,13,929,darmanitan,"['sheer-force', 'zen-mode']",,red,False,False,https://pokeapi.co/api/v2/evolution-chain/282/
+10018,meloetta-pirouette,Normal,Fighting,6,65,meloetta,['serene-grace'],,white,False,True,https://pokeapi.co/api/v2/evolution-chain/335/
+10019,tornadus-therian,Flying,,14,630,tornadus,['regenerator'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/328/
+10020,thundurus-therian,Electric,Flying,30,610,thundurus,['volt-absorb'],,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/329/
+10021,landorus-therian,Ground,Flying,13,680,landorus,['intimidate'],,brown,True,False,https://pokeapi.co/api/v2/evolution-chain/332/
+10022,kyurem-black,Dragon,Ice,33,3250,kyurem,['teravolt'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/333/
+10023,kyurem-white,Dragon,Ice,36,3250,kyurem,['turboblaze'],,gray,True,False,https://pokeapi.co/api/v2/evolution-chain/333/
+10024,keldeo-resolute,Water,Fighting,14,485,keldeo,['justified'],,yellow,False,True,https://pokeapi.co/api/v2/evolution-chain/334/
+10025,meowstic-female,Psychic,,6,85,meowstic,"['keen-eye', 'infiltrator', 'competitive']",,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/348/
+10026,aegislash-blade,Steel,Ghost,17,530,aegislash,['stance-change'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/349/
+10027,pumpkaboo-small,Ghost,Grass,3,35,pumpkaboo,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+10028,pumpkaboo-large,Ghost,Grass,5,75,pumpkaboo,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+10029,pumpkaboo-super,Ghost,Grass,8,150,pumpkaboo,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+10030,gourgeist-small,Ghost,Grass,7,95,gourgeist,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+10031,gourgeist-large,Ghost,Grass,11,140,gourgeist,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+10032,gourgeist-super,Ghost,Grass,17,390,gourgeist,"['pickup', 'frisk', 'insomnia']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/365/
+10033,venusaur-mega,Grass,Poison,24,1555,venusaur,['thick-fat'],grassland,green,False,False,https://pokeapi.co/api/v2/evolution-chain/1/
+10034,charizard-mega-x,Fire,Dragon,17,1105,charizard,['tough-claws'],mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/2/
+10035,charizard-mega-y,Fire,Flying,17,1005,charizard,['drought'],mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/2/
+10036,blastoise-mega,Water,,16,1011,blastoise,['mega-launcher'],waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/3/
+10037,alakazam-mega,Psychic,,12,480,alakazam,['trace'],urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/27/
+10038,gengar-mega,Ghost,Poison,14,405,gengar,['shadow-tag'],cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/40/
+10039,kangaskhan-mega,Normal,,22,1000,kangaskhan,['parental-bond'],grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/53/
+10040,pinsir-mega,Bug,Flying,17,590,pinsir,['aerilate'],forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/62/
+10041,gyarados-mega,Water,Dark,65,3050,gyarados,['mold-breaker'],waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/64/
+10042,aerodactyl-mega,Rock,Flying,21,790,aerodactyl,['tough-claws'],mountain,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/71/
+10043,mewtwo-mega-x,Psychic,Fighting,23,1270,mewtwo,['steadfast'],rare,purple,True,False,https://pokeapi.co/api/v2/evolution-chain/77/
+10044,mewtwo-mega-y,Psychic,,15,330,mewtwo,['insomnia'],rare,purple,True,False,https://pokeapi.co/api/v2/evolution-chain/77/
+10045,ampharos-mega,Electric,Dragon,14,615,ampharos,['mold-breaker'],grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/89/
+10046,scizor-mega,Bug,Steel,20,1250,scizor,['technician'],grassland,red,False,False,https://pokeapi.co/api/v2/evolution-chain/58/
+10047,heracross-mega,Bug,Fighting,17,625,heracross,['skill-link'],forest,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/108/
+10048,houndoom-mega,Dark,Fire,19,495,houndoom,['solar-power'],rough-terrain,black,False,False,https://pokeapi.co/api/v2/evolution-chain/118/
+10049,tyranitar-mega,Rock,Dark,25,2550,tyranitar,['sand-stream'],mountain,green,False,False,https://pokeapi.co/api/v2/evolution-chain/126/
+10050,blaziken-mega,Fire,Fighting,19,520,blaziken,['speed-boost'],grassland,red,False,False,https://pokeapi.co/api/v2/evolution-chain/131/
+10051,gardevoir-mega,Psychic,Fairy,16,484,gardevoir,['pixilate'],urban,white,False,False,https://pokeapi.co/api/v2/evolution-chain/140/
+10052,mawile-mega,Steel,Fairy,10,235,mawile,['huge-power'],cave,black,False,False,https://pokeapi.co/api/v2/evolution-chain/150/
+10053,aggron-mega,Steel,,22,3950,aggron,['filter'],mountain,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/151/
+10054,medicham-mega,Fighting,Psychic,13,315,medicham,['pure-power'],mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/152/
+10055,manectric-mega,Electric,,18,440,manectric,['intimidate'],grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/153/
+10056,banette-mega,Ghost,,12,130,banette,['prankster'],urban,black,False,False,https://pokeapi.co/api/v2/evolution-chain/181/
+10057,absol-mega,Dark,,12,490,absol,['magic-bounce'],mountain,white,False,False,https://pokeapi.co/api/v2/evolution-chain/185/
+10058,garchomp-mega,Dragon,Ground,19,950,garchomp,['sand-force'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/230/
+10059,lucario-mega,Fighting,Steel,13,575,lucario,['adaptability'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/232/
+10060,abomasnow-mega,Grass,Ice,27,1850,abomasnow,['snow-warning'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/239/
+10061,floette-eternal,Fairy,,2,9,floette,"['flower-veil', 'symbiosis']",,white,False,False,https://pokeapi.co/api/v2/evolution-chain/344/
+10062,latias-mega,Dragon,Psychic,18,520,latias,['levitate'],waters-edge,red,True,False,https://pokeapi.co/api/v2/evolution-chain/196/
+10063,latios-mega,Dragon,Psychic,23,700,latios,['levitate'],waters-edge,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/197/
+10064,swampert-mega,Water,Ground,19,1020,swampert,['swift-swim'],waters-edge,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/132/
+10065,sceptile-mega,Grass,Dragon,19,552,sceptile,['lightning-rod'],forest,green,False,False,https://pokeapi.co/api/v2/evolution-chain/130/
+10066,sableye-mega,Dark,Ghost,5,1610,sableye,['magic-bounce'],cave,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/149/
+10067,altaria-mega,Dragon,Fairy,15,206,altaria,['pixilate'],forest,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/168/
+10068,gallade-mega,Psychic,Fighting,16,564,gallade,['inner-focus'],,white,False,False,https://pokeapi.co/api/v2/evolution-chain/140/
+10069,audino-mega,Normal,Fairy,15,320,audino,['healer'],,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/271/
+10070,sharpedo-mega,Water,Dark,25,1303,sharpedo,['strong-jaw'],sea,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/160/
+10071,slowbro-mega,Water,Psychic,20,1200,slowbro,['shell-armor'],waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/33/
+10072,steelix-mega,Steel,Ground,105,7400,steelix,['sand-force'],cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/41/
+10073,pidgeot-mega,Normal,Flying,22,505,pidgeot,['no-guard'],forest,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/6/
+10074,glalie-mega,Ice,,21,3502,glalie,['refrigerate'],cave,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/186/
+10075,diancie-mega,Rock,Fairy,11,278,diancie,['magic-bounce'],,pink,False,True,https://pokeapi.co/api/v2/evolution-chain/371/
+10076,metagross-mega,Steel,Psychic,25,9429,metagross,['tough-claws'],rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/192/
+10077,kyogre-primal,Water,,98,4300,kyogre,['primordial-sea'],sea,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/198/
+10078,groudon-primal,Ground,Fire,50,9997,groudon,['desolate-land'],rough-terrain,red,True,False,https://pokeapi.co/api/v2/evolution-chain/199/
+10079,rayquaza-mega,Dragon,Flying,108,3920,rayquaza,['delta-stream'],rare,green,True,False,https://pokeapi.co/api/v2/evolution-chain/200/
+10080,pikachu-rock-star,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10081,pikachu-belle,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10082,pikachu-pop-star,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10083,pikachu-phd,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10084,pikachu-libre,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10085,pikachu-cosplay,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10086,hoopa-unbound,Psychic,Dark,65,4900,hoopa,['magician'],,purple,False,True,https://pokeapi.co/api/v2/evolution-chain/372/
+10087,camerupt-mega,Fire,Ground,25,3205,camerupt,['sheer-force'],mountain,red,False,False,https://pokeapi.co/api/v2/evolution-chain/162/
+10088,lopunny-mega,Normal,Fighting,13,283,lopunny,['scrappy'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/220/
+10089,salamence-mega,Dragon,Flying,18,1126,salamence,['aerilate'],rough-terrain,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/191/
+10090,beedrill-mega,Bug,Poison,14,405,beedrill,['adaptability'],forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/5/
+10091,rattata-alola,Dark,Normal,3,38,rattata,"['gluttony', 'hustle', 'thick-fat']",grassland,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/7/
+10092,raticate-alola,Dark,Normal,7,255,raticate,"['gluttony', 'hustle', 'thick-fat']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/7/
+10093,raticate-totem-alola,Dark,Normal,14,1050,raticate,"['gluttony', 'hustle', 'thick-fat']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/7/
+10094,pikachu-original-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10095,pikachu-hoenn-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10096,pikachu-sinnoh-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10097,pikachu-unova-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10098,pikachu-kalos-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10099,pikachu-alola-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10100,raichu-alola,Electric,Psychic,7,210,raichu,['surge-surfer'],forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10101,sandshrew-alola,Ice,Steel,7,400,sandshrew,"['snow-cloak', 'slush-rush']",rough-terrain,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/11/
+10102,sandslash-alola,Ice,Steel,12,550,sandslash,"['snow-cloak', 'slush-rush']",rough-terrain,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/11/
+10103,vulpix-alola,Ice,,6,99,vulpix,"['snow-cloak', 'snow-warning']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/15/
+10104,ninetales-alola,Ice,Fairy,11,199,ninetales,"['snow-cloak', 'snow-warning']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/15/
+10105,diglett-alola,Ground,Steel,2,10,diglett,"['sand-veil', 'tangling-hair', 'sand-force']",cave,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/21/
+10106,dugtrio-alola,Ground,Steel,7,666,dugtrio,"['sand-veil', 'tangling-hair', 'sand-force']",cave,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/21/
+10107,meowth-alola,Dark,,4,42,meowth,"['pickup', 'technician', 'rattled']",urban,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/22/
+10108,persian-alola,Dark,,11,330,persian,"['fur-coat', 'technician', 'rattled']",urban,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/22/
+10109,geodude-alola,Rock,Electric,4,203,geodude,"['magnet-pull', 'sturdy', 'galvanize']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/31/
+10110,graveler-alola,Rock,Electric,10,1100,graveler,"['magnet-pull', 'sturdy', 'galvanize']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/31/
+10111,golem-alola,Rock,Electric,17,3160,golem,"['magnet-pull', 'sturdy', 'galvanize']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/31/
+10112,grimer-alola,Poison,Dark,7,420,grimer,"['poison-touch', 'gluttony', 'power-of-alchemy']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/38/
+10113,muk-alola,Poison,Dark,10,520,muk,"['poison-touch', 'gluttony', 'power-of-alchemy']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/38/
+10114,exeggutor-alola,Grass,Dragon,109,4156,exeggutor,"['frisk', 'harvest']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/45/
+10115,marowak-alola,Fire,Ghost,10,340,marowak,"['cursed-body', 'lightning-rod', 'rock-head']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/46/
+10116,greninja-battle-bond,Water,Dark,15,400,greninja,['battle-bond'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/339/
+10117,greninja-ash,Water,Dark,15,400,greninja,['battle-bond'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/339/
+10118,zygarde-10-power-construct,Dragon,Ground,12,335,zygarde,['power-construct'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/370/
+10119,zygarde-50-power-construct,Dragon,Ground,50,3050,zygarde,['power-construct'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/370/
+10120,zygarde-complete,Dragon,Ground,45,6100,zygarde,['power-construct'],,green,True,False,https://pokeapi.co/api/v2/evolution-chain/370/
+10121,gumshoos-totem,Normal,,14,600,gumshoos,"['stakeout', 'strong-jaw', 'adaptability']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/378/
+10122,vikavolt-totem,Bug,Electric,26,1475,vikavolt,['levitate'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/379/
+10123,oricorio-pom-pom,Electric,Flying,6,34,oricorio,['dancer'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/381/
+10124,oricorio-pau,Psychic,Flying,6,34,oricorio,['dancer'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/381/
+10125,oricorio-sensu,Ghost,Flying,6,34,oricorio,['dancer'],,red,False,False,https://pokeapi.co/api/v2/evolution-chain/381/
+10126,lycanroc-midnight,Rock,,11,250,lycanroc,"['keen-eye', 'vital-spirit', 'no-guard']",,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/383/
+10127,wishiwashi-school,Water,,82,786,wishiwashi,['schooling'],,blue,False,False,https://pokeapi.co/api/v2/evolution-chain/384/
+10128,lurantis-totem,Grass,,15,580,lurantis,"['leaf-guard', 'contrary']",,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/388/
+10129,salazzle-totem,Poison,Fire,21,810,salazzle,"['corrosion', 'oblivious']",,black,False,False,https://pokeapi.co/api/v2/evolution-chain/390/
+10130,minior-orange-meteor,Rock,Flying,3,400,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10131,minior-yellow-meteor,Rock,Flying,3,400,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10132,minior-green-meteor,Rock,Flying,3,400,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10133,minior-blue-meteor,Rock,Flying,3,400,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10134,minior-indigo-meteor,Rock,Flying,3,400,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10135,minior-violet-meteor,Rock,Flying,3,400,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10136,minior-red,Rock,Flying,3,3,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10137,minior-orange,Rock,Flying,3,3,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10138,minior-yellow,Rock,Flying,3,3,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10139,minior-green,Rock,Flying,3,3,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10140,minior-blue,Rock,Flying,3,3,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10141,minior-indigo,Rock,Flying,3,3,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10142,minior-violet,Rock,Flying,3,3,minior,['shields-down'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/400/
+10143,mimikyu-busted,Ghost,Fairy,2,7,mimikyu,['disguise'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/404/
+10144,mimikyu-totem-disguised,Ghost,Fairy,4,28,mimikyu,['disguise'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/404/
+10145,mimikyu-totem-busted,Ghost,Fairy,4,28,mimikyu,['disguise'],,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/404/
+10146,kommo-o-totem,Dragon,Fighting,24,2075,kommo-o,"['bulletproof', 'soundproof', 'overcoat']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/408/
+10147,magearna-original,Steel,Fairy,10,805,magearna,['soul-heart'],,gray,False,True,https://pokeapi.co/api/v2/evolution-chain/422/
+10148,pikachu-partner-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10149,marowak-totem,Fire,Ghost,17,980,marowak,"['cursed-body', 'lightning-rod', 'rock-head']",mountain,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/46/
+10150,ribombee-totem,Bug,Fairy,4,20,ribombee,"['honey-gather', 'shield-dust', 'sweet-veil']",,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/382/
+10151,rockruff-own-tempo,Rock,,5,92,rockruff,['own-tempo'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/383/
+10152,lycanroc-dusk,Rock,,8,250,lycanroc,['tough-claws'],,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/383/
+10153,araquanid-totem,Water,Bug,31,2175,araquanid,"['water-bubble', 'water-absorb']",,green,False,False,https://pokeapi.co/api/v2/evolution-chain/387/
+10154,togedemaru-totem,Electric,Steel,6,130,togedemaru,"['iron-barbs', 'lightning-rod', 'sturdy']",,gray,False,False,https://pokeapi.co/api/v2/evolution-chain/403/
+10155,necrozma-dusk,Psychic,Steel,38,4600,necrozma,['prism-armor'],,black,True,False,https://pokeapi.co/api/v2/evolution-chain/421/
+10156,necrozma-dawn,Psychic,Ghost,42,3500,necrozma,['prism-armor'],,black,True,False,https://pokeapi.co/api/v2/evolution-chain/421/
+10157,necrozma-ultra,Psychic,Dragon,75,2300,necrozma,['neuroforce'],,black,True,False,https://pokeapi.co/api/v2/evolution-chain/421/
+10158,pikachu-starter,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10159,eevee-starter,Normal,,3,65,eevee,"['run-away', 'adaptability', 'anticipation']",urban,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/67/
+10160,pikachu-world-cap,Electric,,4,60,pikachu,"['static', 'lightning-rod']",forest,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/10/
+10161,meowth-galar,Steel,,4,75,meowth,"['pickup', 'tough-claws', 'unnerve']",urban,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/22/
+10162,ponyta-galar,Psychic,,8,240,ponyta,"['run-away', 'pastel-veil', 'anticipation']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/32/
+10163,rapidash-galar,Psychic,Fairy,17,800,rapidash,"['run-away', 'pastel-veil', 'anticipation']",grassland,yellow,False,False,https://pokeapi.co/api/v2/evolution-chain/32/
+10164,slowpoke-galar,Psychic,,12,360,slowpoke,"['gluttony', 'own-tempo', 'regenerator']",waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/33/
+10165,slowbro-galar,Poison,Psychic,16,705,slowbro,"['quick-draw', 'own-tempo', 'regenerator']",waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/33/
+10166,farfetchd-galar,Fighting,,8,420,farfetchd,"['steadfast', 'scrappy']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/35/
+10167,weezing-galar,Poison,Fairy,30,160,weezing,"['levitate', 'neutralizing-gas', 'misty-surge']",urban,purple,False,False,https://pokeapi.co/api/v2/evolution-chain/49/
+10168,mr-mime-galar,Ice,Psychic,14,568,mr-mime,"['vital-spirit', 'screen-cleaner', 'ice-body']",urban,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/57/
+10169,articuno-galar,Psychic,Flying,17,509,articuno,['competitive'],rare,blue,True,False,https://pokeapi.co/api/v2/evolution-chain/73/
+10170,zapdos-galar,Fighting,Flying,16,582,zapdos,['defiant'],rare,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/74/
+10171,moltres-galar,Dark,Flying,20,660,moltres,['berserk'],rare,yellow,True,False,https://pokeapi.co/api/v2/evolution-chain/75/
+10172,slowking-galar,Poison,Psychic,18,795,slowking,"['curious-medicine', 'own-tempo', 'regenerator']",waters-edge,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/33/
+10173,corsola-galar,Ghost,,6,5,corsola,"['weak-armor', 'cursed-body']",sea,pink,False,False,https://pokeapi.co/api/v2/evolution-chain/113/
+10174,zigzagoon-galar,Dark,Normal,4,175,zigzagoon,"['pickup', 'gluttony', 'quick-feet']",grassland,brown,False,False,https://pokeapi.co/api/v2/evolution-chain/134/
+10175,linoone-galar,Dark,Normal,5,325,linoone,"['pickup', 'gluttony', 'quick-feet']",grassland,white,False,False,https://pokeapi.co/api/v2/evolution-chain/134/
